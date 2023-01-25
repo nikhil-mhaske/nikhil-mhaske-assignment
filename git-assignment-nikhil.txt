@@ -1,3 +1,6 @@
+Q1- wisdm-nikhil
+Q2 - https://github.com/WisdmLabs/Engineering-Best-Practices/pull/4
+Q3 -
 git remote add origin git@github.com:nikhil-mhaske/nikhil-mhaske-assignment.git
 git push -u origin wisdm-nikhil
 Branch 'wisdm-nikhil' set up to track remote branch 'wisdm-nikhil' from 'origin'.
@@ -4326,4 +4329,33 @@ Date:   Mon Sep 15 15:54:42 2014 -0700
 
     Initial fork commit
 git revert 3a0eeeb226cab6ee614a6eef2636a1d74d8e71a8 
-[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;32H(B[0;7m[ Read 16 lines ](B[m[H(B[0;7m     /home/nikhil/git/nikhil-mhaske-assignemnt/.git/COMMIT_EDITMSG              [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2dRevert "First change in readme file"[4dThis reverts commit 3a0eeeb226cab6ee614a6eef2636a1d74d8e71a8.[6d[36m# Please enter the commit message for your changes. Lines starting[7d# with '#' will be ignored, and an empty message aborts the commit.[8d#[9d# On branch wisdm-nikhil[10d# Your branch is up to date with 'origin/wisdm-nikhil'.[11d#[12d# Changes to be committed:[13d#[38;5;208m       [36mdeleted:    readme.md[14d#[15d# Changes not staged for commit:[16d#[38;5;208m       [36mmodified:   git-assignment.txt[17d#[2d[39m(B[m[?12l[?25h[?25l[1;68H(B[0;7m*[79G(B[m[?12l[?25h[2dqRevert "First change in readme file"q[?25l7[2;21r8M[1;24r[2;1Hq[3d[1P[?12l[?25h[?25l7[3;21r8M[1;24r[4;1H[?12l[?25h[?25l[?12l[?25heRevert "First change in readme file"e[?25l[?12l[?25hnRevert "First change in readme file"en[?25l[?12l[?25hdRevert "First change in readme file"end[?25l[3;21r[3;1HM[1;24r[4;1Hend[5d[3P[?12l[?25h[?25l[?12l[?25hwRevert "First change in readme file"w[?25l[?12l[?25hqRevert "First change in readme file"wq[?25l7[5;21r8M[1;24r[5;1Hwq[6d[2P[?12l[?25h[?25l[22;12H(B[0;7m[ line  5/21 (23%), col  1/37 (  2%), char  10/452 ( 2%) ](B[m[?12l[?25h[6d[?25l[?12l[?25h[1P[?25l[22;40H(B[0;7m6[22;61H1[22;70H(B[m[?12l[?25h[6d[?25l[?12l[?25hcevert "First change in readme file"c[?25l[?12l[?25hlevert "First change in readme file"cl[?25l[?12l[?25heevert "First change in readme file"cle[?25l[?12l[?25haevert "First change in readme file"[5G[24;1H[?1049l[23;0;0t[?1l>[?2004l
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;32H(B[0;7m[ Read 16 lines ](B[m[H(B[0;7m     /home/nikhil/git/nikhil-mhaske-assignemnt/.git/COMMIT_EDITMSG              [1;79H(B[m
+[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line
+[2dRevert "First change in readme file"
+[4dThis reverts commit 3a0eeeb226cab6ee614a6eef2636a1d74d8e71a8.
+[6d[36m# Please enter the commit message for your changes. Lines starting
+[7d# with '#' will be ignored, and an empty message aborts the commit.
+[8d#[9d# On branch wisdm-nikhil
+[10d# Your branch is up to date with 'origin/wisdm-nikhil'.
+[11d#[12d# Changes to be committed:
+[13d#[38;5;208m       [36mdeleted:    readme.md
+[14d#[15d# Changes not staged for commit:
+[16d#[38;5;208m       [36mmodified:   git-assignment.txt
+[17d#[2d[39m(B[m[?12l[?25h[?25l[1;68H(B[0;7m*[79G(B[m[?12l[?25h
+[2dqRevert "First change in readme file"
+q[?25l7[2;21r8M[1;24r[2;1Hq[3d[1P[?12l[?25h[?25l7[3;21r8M[1;24r[4;1H[?12l[?25h[?25l[?12l[?25heRevert "First change in readme file"
+e[?25l[?12l[?25hnRevert "First change in readme file"
+en[?25l[?12l[?25hdRevert "First change in readme file"
+end[?25l[3;21r[3;1HM[1;24r[4;1Hend
+[5d[3P[?12l[?25h[?25l[?12l[?25hwRevert "First change in readme file"
+w[?25l[?12l[?25hqRevert "First change in readme file"
+wq[?25l7[5;21r8
+M[1;24r[5;1Hwq
+[6d[2P[?12l[?25h[?25l[22;12H(B[0;7m[ line  5/21 (23%), col  1/37 (  2%), char  10/452 ( 2%) ](B[m[?12l[?25h
+[6d[?25l[?12l[?25h[1P[?25l[22;40H(B[0;7m6[22;61H1[22;70H(B[m[?12l[?25h
+[6d[?25l[?12l[?25hcevert "First change in readme file"
+c[?25l[?12l[?25hlevert "First change in readme file"
+cl[?25l[?12l[?25heevert "First change in readme file"
+cle[?25l[?12l[?25haevert "First change in readme file"[5G[24;1H[?1049l[23;0;0t
+[?1l>[?2004l
