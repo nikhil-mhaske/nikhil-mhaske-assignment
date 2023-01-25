@@ -13,3 +13,4317 @@ Your branch is ahead of 'origin/wisdm-nikhil' by 1 commit.
 git merge test250123
 Already up to date.
 git push -u origin wisdm-nikhil
+[wisdm-nikhil f518839] Branch merged
+ 1 file changed, 15 insertions(+)
+ create mode 100644 git-assignment.txt
+Branch 'wisdm-nikhil' set up to track remote branch 'wisdm-nikhil' from 'origin'.
+git log
+commit f518839818eb1a58a0f868cdd2602cd135cd07fd
+Author: nikhil <nikhil.mhask@wisdmlabs.com>
+Date:   Wed Jan 25 11:32:15 2023 +0530
+
+    Branch merged
+
+commit 3a0eeeb226cab6ee614a6eef2636a1d74d8e71a8
+Author: nikhil <nikhil.mhask@wisdmlabs.com>
+Date:   Wed Jan 25 11:28:03 2023 +0530
+
+    First change in readme file
+
+commit 7ed4c2d387cb4b86367f2a8adf5a57cce0af72f0
+Author: nikhil <nikhil.mhask@wisdmlabs.com>
+Date:   Wed Jan 25 11:22:07 2023 +0530
+
+    Nikhil name added with branch
+
+commit e96741f4ffa2e689dc7a19c9f4923c5b8af863d6
+Author: nikhil <nikhil.mhask@wisdmlabs.com>
+Date:   Wed Jan 25 11:20:40 2023 +0530
+
+    Nikhil made changes
+
+commit 8455f8c473f256181a3ae4f7b2e57891d503cc6b
+Merge: 0db0e23 b67155a
+Author: Arunesh Parab <arunesh.parab@wisdmlabs.com>
+Date:   Wed Oct 12 11:48:38 2022 +0530
+
+    Merge pull request #1 from shamalisulakhe/update-tools
+    
+    Update Tools->Local Development Environments
+
+commit b67155a3fe362c304dd630d873fd55d34391ec92
+Author: Shamali Sulakhe <38684563+shamalisulakhe@users.noreply.github.com>
+Date:   Tue Oct 11 23:36:29 2022 +0530
+
+    Update Tools->Local Development Environments
+
+commit 0db0e23878298964f72d9a26f26d679b51cf067a
+Author: arunesh.parab <arunesh.parab@wisdmlabs.com>
+Date:   Thu Dec 13 12:11:11 2018 +0530
+
+    changing for Wisdmlabs
+
+commit 47fd6a9892e7c482403bad67c8abc5586f0d9675
+Author: Arunesh Parab <arunesh.parab@wisdmlabs.com>
+Date:   Wed Oct 31 12:21:05 2018 +0530
+
+    Set theme jekyll-theme-cayman
+
+commit c70355cb06ed2461649e4563deb7d0fc8726e7e8
+Merge: 12dac76 e483436
+Author: Tim Wright <timwright12@gmail.com>
+Date:   Wed Sep 19 13:21:20 2018 -0400
+
+    Merge pull request #255 from 10up/feature/package-management
+    
+    Package Management best practices
+
+commit e483436d228097b987563124800917d492a78f70
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Mon Sep 17 15:22:21 2018 -0400
+
+    Package Management best practices
+
+commit 12dac76f99bc99f7c98af26184741f5cbc668895
+Merge: 997c14e d3842f1
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Tue Sep 4 10:34:36 2018 -0400
+
+    Merge pull request #252 from 10up/feature/cli-tools-update
+    
+    Update list of local environments
+
+commit d3842f16f1fe2a3940c03ee5a7addd220b7a4f9c
+Author: Ben Greeley <ben.greeley@get10up.com>
+Date:   Tue Sep 4 09:04:58 2018 -0400
+
+    Remove VIP Quickstart from tools, add hyperlinks for local environments
+    
+    : feature/cli-tools-update
+
+commit cbbc8882914d8ca698c7b8da0d16b5d1d2c14ce4
+Author: Ben Greeley <ben.greeley@get10up.com>
+Date:   Thu Aug 30 13:37:36 2018 -0400
+
+    Add WP Local Docker to list of local environments WP-CLI is included on for by default.
+    
+    : feature/cli-tools-update
+
+commit 997c14e60da5fd4436bc6a9284ed4e2a23926ef5
+Merge: 0b2aa5e 74ad0cb
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Aug 29 10:25:35 2018 -0400
+
+    Merge pull request #251 from 10up/feature/client-side-data
+    
+    JS / Client-side Data (Ajax) Best Practices
+
+commit 74ad0cbf9481d5c4196ea6b9b0a07e7b2fe2d19b
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Fri Aug 24 15:49:51 2018 -0400
+
+    added ajax section
+
+commit 59c253eb6ee00bec09999705362592a27f8ccd18
+Merge: ac4a62d 0b2aa5e
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Fri Aug 24 15:19:17 2018 -0400
+
+    save
+
+commit 0b2aa5e0dd797c4132059f2ed7ea9a0a80baf16f
+Merge: 024239b 132f44d
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Fri Aug 24 14:19:28 2018 -0400
+
+    Merge pull request #250 from 10up/feature/manual-a11y-testing
+    
+    Feature/manual a11y testing
+
+commit 132f44df25b4a6629ff66aaacecec8d1f6b1a20b
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Fri Aug 24 09:46:48 2018 -0400
+
+    added manual a11y testing
+
+commit f262baf337c9e3004ca59a28b1aa88088fa78ca0
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Fri Aug 24 09:45:11 2018 -0400
+
+    added manual a11y testing
+
+commit ac4a62d7711d116945f8a145abbc4a2234225ccb
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Fri Aug 24 08:55:36 2018 -0400
+
+    save
+
+commit 024239b6bdc6f6c28917738429fbb7fdf99dc287
+Merge: 2b93c57 f6ba96c
+Author: Tim Wright <timwright12@gmail.com>
+Date:   Wed Aug 22 10:02:12 2018 -0400
+
+    Merge pull request #249 from 10up/JodiWarren-patch-2
+    
+    Add note about JS enhancement to Skip Links
+
+commit f6ba96c85977dc95e5229ab9b4d5bfdfcea8d818
+Author: Jodi Warren <jodi@jodiwarren.com>
+Date:   Wed Aug 22 14:02:30 2018 +0100
+
+    Add note about JS enhancement to Skip Links
+
+commit 2b93c57f5406da3b56de79f9a4903f35cc2a8b0a
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Mon Aug 20 15:04:20 2018 -0400
+
+    updated to 2.1
+
+commit 2ac40d18cd70f8b4df7d86086f9b2e7b2140d84a
+Merge: 8c7594c db01c29
+Author: Tim Wright <timwright12@gmail.com>
+Date:   Mon Aug 20 15:02:24 2018 -0400
+
+    Merge pull request #234 from 10up/feature/bypass-blocks
+    
+    Add a section about bypass blocks (skip links) for a11y
+
+commit db01c297a36edcf4ab4e3aaf09167cf2ec13028e
+Merge: 722f549 8c7594c
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Mon Aug 20 14:57:31 2018 -0400
+
+    Merge branch 'gh-pages' into feature/bypass-blocks
+
+commit 722f54950dde6fc77c23b7047043ef8919772c4f
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Mon Aug 20 14:57:23 2018 -0400
+
+    updated bypass blocks
+
+commit 8c7594c4838537a394753b5e59438564fd5926a5
+Merge: f716d76 18f0f0b
+Author: Tim Wright <timwright12@gmail.com>
+Date:   Fri Aug 17 08:02:39 2018 -0400
+
+    Merge pull request #243 from 10up/update/feature-detection
+    
+    Replaced Modernizr section content with Feature Detection
+
+commit f716d764d005bfddd34888f165ce1901f59e6aeb
+Merge: 6073fa7 f00fb17
+Author: Tim Wright <timwright12@gmail.com>
+Date:   Wed Aug 8 08:34:13 2018 -0400
+
+    Merge pull request #246 from 10up/update/reset
+    
+    Removed sanitize.css and added normalize.css as primary tool for CSS reset
+
+commit f00fb179071eafef81945b2bb81a68beab6b9f65
+Author: Sang-Min Yoon <smyoon315@gmail.com>
+Date:   Tue Aug 7 17:04:17 2018 -0400
+
+    Removed sanitize.css
+
+commit 18f0f0bd3f1c26bff82fba76a1eb8c3231cf48c9
+Author: Sang-Min Yoon <smyoon315@gmail.com>
+Date:   Tue Aug 7 16:38:30 2018 -0400
+
+    Replaced Modernizr section content with Feature Detection
+
+commit 6073fa7609e0d2805664740b218bd496f299e30c
+Merge: 98e09dd b2058f0
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Jul 10 21:48:03 2018 -0400
+
+    Merge pull request #237 from TheLastCicada/gh-pages
+    
+    First Systems Engineering Best Practices sections
+
+commit b2058f0e0192e02058e031ef19156203e7b13451
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Tue Jul 10 14:30:49 2018 -0700
+
+    Add performance recommendation for HTTP/2 and fix "lightweight" typo
+
+commit 98e09dd6473d5919ad0c6970031750a4f5b8ecb7
+Merge: 525a284 d9d256e
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Jul 2 15:31:58 2018 -0400
+
+    Merge pull request #236 from 10up/feature/js-best-practice
+    
+    Updated JS best practices
+
+commit e7e99619b0bc746e550b0f5114319935a264c8df
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Fri Jun 29 15:39:12 2018 -0700
+
+    Fix table of contents links for Systems section
+
+commit c1423755a784b8b2525a49d957fff568818c740b
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Fri Jun 29 15:34:40 2018 -0700
+
+    Nginx vs Apache; capitalization consistency.
+
+commit b5f796231c525a2102a3f4fa9bec5b0728c1cc63
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Fri Jun 29 15:02:19 2018 -0700
+
+    Styling for Systems Engineering section and header image (props @tlovett1)
+
+commit b69ebcc8b18b480538d5fd8b2fd31ee6e5bc2ae7
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Wed Jun 27 14:13:09 2018 -0700
+
+    More markdown tweaks for bolding
+
+commit 078e8a95314f69efb057a5ae420b6f7f2d03c435
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Wed Jun 27 14:09:21 2018 -0700
+
+    Markdown code formatting improvement
+
+commit a36f615d3bbd0caf012e86c5a01309af07efe98f
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Wed Jun 27 14:07:05 2018 -0700
+
+    upload_max_file_size - additional notes regarding Nginx and CDNs
+
+commit 702b56ba26633c6cb208ed59da8e274219603ea1
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Wed Jun 27 13:56:40 2018 -0700
+
+    Text adjustments based on proofreading.  XML-RPC blocking.
+
+commit 6e1c169bc23f28fb90a47ec93e8fe075a8afb666
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Tue Jun 26 23:27:27 2018 -0700
+
+    Start updating the table of contents
+
+commit 12452c5676c4196bd32f04fded5f6dd42564833a
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Tue Jun 26 23:14:19 2018 -0700
+
+    Make the markdown look good
+
+commit fb377cdadbafb97c3ec8721e3e0c6f76ee12a12b
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Tue Jun 26 22:52:52 2018 -0700
+
+    Change "Nginx" to "Systems" in Nav; add text for MySQL and PHP-FPM
+
+commit 8f4eccaa2ef1cef8cbe6ae9079a93b6cbcfe689b
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Mon Jun 25 15:17:28 2018 -0700
+
+    plumbing for the Nginx section
+
+commit f256f63fc4b49761f40e894e67f3570fd4fcc007
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Mon Jun 25 15:03:28 2018 -0700
+
+    Nginx content
+
+commit ce0f98fe49b7fc00b21d8c7e5c53a3970126d3ba
+Author: Zachary Brown <zach.brown@10up.com>
+Date:   Sun Jun 24 16:07:56 2018 -0700
+
+    Add Nginx section - testing
+
+commit d9d256ec5ff8de645b600394829d46341cbf65ca
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Mon Jun 18 10:24:11 2018 -0400
+
+    updated JS best practices
+
+commit 97d1f29373cabc9486af23edaf2f9a3be3215ccd
+Author: William Patton <will@pattonwebz.com>
+Date:   Tue Jun 12 16:49:06 2018 +0100
+
+    add a section about bypass blocks for a11y
+
+commit 525a2845db0f1e8ea5715052db26cd8f15172123
+Merge: a5d865e 9c883b1
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Jun 11 22:09:32 2018 -0400
+
+    Merge pull request #231 from 10up/feature/javascript-frameworks
+    
+    Added React Documentation
+
+commit 9c883b124b49233a54cf2ac9246afb2e2f97226b
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Fri Jun 1 08:32:53 2018 -0400
+
+    removed Vue
+
+commit 8cb078cb2af9fab598538b5b730dd1992e18b76c
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Fri Jun 1 08:29:06 2018 -0400
+
+    updated React questions lead-in
+
+commit b6bf2bd9952d778c91f4e42cc1e41369a729efa3
+Merge: 578b177 a5d865e
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Fri Jun 1 08:26:24 2018 -0400
+
+    updated lock file due to merge conflict
+
+commit 578b177e7c8eadb79687074c42abd1458e48f3b4
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Fri Jun 1 08:23:07 2018 -0400
+
+    updated React docs
+
+commit a5d865e668dcbb15004da251a8d908dff304ab9d
+Merge: c45901f 7e0f0bc
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Thu May 31 15:32:30 2018 -0400
+
+    Merge pull request #232 from 10up/update/issue-215-dependency-management
+    
+    Updated package management documentation
+
+commit 7e0f0bc1b73b74ac6d6c1c0a595b2e21b4b43cc9
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Thu May 31 15:30:06 2018 -0400
+
+    updated text
+
+commit 2fd798809217c1b9c5d7d85d39b14167116ef544
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Thu May 31 10:31:31 2018 -0400
+
+    lowercased npm
+
+commit a2d5383806d2285d3b05a37c95afd8a0bcd4f607
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Thu May 31 08:36:06 2018 -0400
+
+    updated NPM with documentation instructions per our internal conversation
+
+commit fa0691641204013fbfe76b3b8718442a8428bb5a
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Thu May 17 15:55:04 2018 -0400
+
+    added Vue best practice docs
+
+commit 611f57dfb41eb19a3ec339e6f741ac4cb403e701
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Thu May 17 15:08:22 2018 -0400
+
+    added React docs
+
+commit d90fde5f2edaa2d3cee97b6dc95742e18c1d25b1
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Thu May 17 15:08:00 2018 -0400
+
+    added React docs
+
+commit c45901f7de4f71bd76edba3daab33bd3e68b886b
+Merge: d0b9a13 8006ee2
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Wed May 9 15:50:28 2018 -0400
+
+    Merge pull request #227 from 10up/update/docs-structure
+    
+    Updated the theme/plugin structure to match the new Project Scaffolding
+
+commit d0b9a13d019c04943bc3693cb551e7eb119535a9
+Merge: 0b1d12f 92ac8d8
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Wed May 9 10:13:24 2018 -0400
+
+    Merge pull request #230 from 10up/fix/vcs-menu
+    
+    Fixed link to Structure and Package Management in the menu
+
+commit 92ac8d8998a00eaf968380d1c93d6b6e504aa981
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Wed May 9 10:12:50 2018 -0400
+
+    Fixed link to Structure and Package Management in the menu
+
+commit 0b1d12fe576be6b1afb6f778f67d58233f2c5ff4
+Merge: 69b3ce0 53f6314
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Wed May 9 10:00:02 2018 -0400
+
+    Merge pull request #228 from 10up/fix/update-gems
+    
+    fixed gem vulnerability and ran an update to all gems
+
+commit 53f6314c14cc6c7e3523164c7077e26fc285c113
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Wed May 9 09:04:44 2018 -0400
+
+    fixed gem vulnerability and ran an update to all gems
+
+commit 8006ee232469a5bc759a12f770b7a89f82b06016
+Author: Tim Wright <tim.wright@10up.com>
+Date:   Tue May 8 15:19:11 2018 -0400
+
+    Updated the theme/plugin structure to match the new Project Scaffolding
+
+commit 69b3ce02f7a1ca0874a9270f5b4af10528b15c03
+Merge: 1734743 5ce0505
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Fri May 4 15:02:11 2018 -0400
+
+    Merge pull request #226 from asvinb/feature/title-link
+    
+    Add subnav for migration, add classes to all main headings to fix spa…
+
+commit 5ce0505d1323cdc548b86362a98466d97028bc4a
+Author: Asvin Balloo <asvin.balloo@10up.com>
+Date:   Fri May 4 22:31:17 2018 +0400
+
+    Add subnav for migration, add classes to all main headings to fix space when using anchor links
+
+commit 17347439820029f33482c4611e9d7a9c6895a069
+Merge: 912f4ba 74c0c21
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Fri May 4 09:10:04 2018 -0400
+
+    Merge pull request #218 from 10up/fix/typos
+    
+    Fix typo and indentation
+
+commit 912f4ba4a1e0ee099827d043057d80ba2cd355f6
+Merge: 00c6792 1a53a87
+Author: Tim Wright <timwright12@gmail.com>
+Date:   Thu Apr 26 15:47:43 2018 -0400
+
+    Merge pull request #225 from daveross/feature/no-bower
+    
+    Remove Bower from recommended Tools
+
+commit 1a53a87771a16b7012b4019366e50dbee20e9da2
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Thu Apr 26 14:13:36 2018 -0400
+
+    Remove Bower from recommended Tools
+
+commit 00c67923c30c819420cfa718b544ae26857e6083
+Merge: fbadfb2 573a5d1
+Author: Tim Wright <timwright12@gmail.com>
+Date:   Thu Apr 19 09:54:48 2018 -0400
+
+    Merge pull request #224 from daveross/feature/scaffolding-tools
+    
+    Note on 10up Project Scaffold
+
+commit 573a5d1e5277583a06f5a1484ac76ec0f89149b3
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Thu Apr 19 09:46:42 2018 -0400
+
+    Fixed name of scaffolding tool
+
+commit 1ca456df5845bf6f9d50ee1752bd162d353ff541
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Thu Apr 19 09:33:03 2018 -0400
+
+    Note on 10up Project Scaffold
+
+commit fbadfb22a0fac696673512ce6caab30d519afc0c
+Merge: 08e9a4b de9debd
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Thu Apr 19 09:18:32 2018 -0400
+
+    Merge pull request #219 from jeis2497052/gh-pages
+    
+    Propose fix typos
+
+commit 08e9a4be9acdbff0be14fb18deb7fcfe286bff1a
+Merge: 519f2a8 9cb1c2d
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Thu Apr 19 09:16:54 2018 -0400
+
+    Merge pull request #223 from daveross/feature/tools-back-to-top
+    
+    Back to Top links on all H2s in Tools
+
+commit 9cb1c2da44597f4e3c118b646f90e84237980806
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Thu Apr 19 09:10:04 2018 -0400
+
+    Back to Top links on all H2s in Tools
+
+commit de9debd46bc7142cbe573ed56379c8f3309c6dc2
+Author: John Eismeier <john.eismeier@gmail.com>
+Date:   Fri Mar 9 16:33:26 2018 -0500
+
+    Propose fix typos
+
+commit 519f2a8ddaf4dc0ce9ff1504ea2c3e447fe6894d
+Merge: 4530fa8 b9986be
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Mar 2 16:14:05 2018 -0500
+
+    Merge pull request #213 from 10up/update/accessibility
+    
+    updated accessibiity practices
+
+commit 74c0c21cbd35153a7c86870af5e25143ea378549
+Author: Barry Ceelen <barry@multipop.org>
+Date:   Tue Feb 27 21:47:44 2018 +0100
+
+    Fix indentation display error in code example
+
+commit 9918006bb5cf8ccd3b09814e24025f47eead4912
+Author: Barry Ceelen <barry@multipop.org>
+Date:   Tue Feb 27 21:41:54 2018 +0100
+
+    Fix typo in CSS section
+
+commit 4530fa8789d363bd21effa90017b930a5233668f
+Merge: 4574e07 fc9000f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Feb 27 14:36:13 2018 -0500
+
+    Merge pull request #217 from 10up/fix/typos
+    
+    Fix typos in Version Control section
+
+commit fc9000fdd42a83d1ca4054543cdfb5c074bed8db
+Author: Barry Ceelen <barry@multipop.org>
+Date:   Tue Feb 27 20:26:47 2018 +0100
+
+    Fix typos in Version Control section
+
+commit b9986be4f1fb4a03975c3cb122a3e32c35cdc19a
+Author: Tim Wright <timwright12@gmail.com>
+Date:   Tue Feb 6 08:29:50 2018 -0500
+
+    updated language
+
+commit d0b64b4a1603bba7dce11bd376d0224151a6e27d
+Author: Tim Wright <timwright12@gmail.com>
+Date:   Mon Feb 5 16:22:36 2018 -0500
+
+    updated accessibiity practices
+
+commit 4574e073d26ca1c95699fc421ecfb6b568999a96
+Merge: 0510c3e 658d544
+Author: Adam Silverstein <adam@10up.com>
+Date:   Wed Jan 17 08:56:38 2018 -0500
+
+    Merge pull request #212 from 10up/fix/caching-wp-query
+    
+    Avoid caching WP Query object
+
+commit 658d5445326c1e25180da25e28beb289f8704a0d
+Author: Prasath Nadarajah <n.prasath.002@gmail.com>
+Date:   Wed Jan 17 09:42:56 2018 +0530
+
+    Avoid caching WP Query object
+
+commit 0510c3e9b00225c95c5d819cd6a4322f469850be
+Merge: 15ba91d c68f3c9
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Sun Jan 14 23:05:46 2018 -0500
+
+    Merge pull request #206 from 10up/feature/composer-plugins
+    
+    Manage WP Plugins w/ Composer
+
+commit 15ba91d7c6a353e158ccc4d2c9e9cc63f8c71bfd
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Dec 6 17:27:36 2017 -0500
+
+    Dont commit compiled files
+
+commit 130971bf175b05bcf3f32965576c37234e20da34
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Dec 6 15:35:00 2017 -0500
+
+    Reorder stucture navigation
+
+commit 743ad7dc5a09dba9038fd055a5897fb8bf9b3585
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Dec 6 15:32:17 2017 -0500
+
+    Language corrections
+
+commit 38507dc17f6d8a3cbf977d2b91e961c2a2446e29
+Merge: 2307a8c 6ca9e68
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Dec 6 15:28:02 2017 -0500
+
+    Merge pull request #208 from 10up/vcs-structure-changes
+    
+    Simplify VCS section and add composer project structure
+
+commit 2307a8c7e290321a043696ab2add2f8a9860c9bf
+Merge: 0b123e0 5c0be0c
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Dec 6 15:02:42 2017 -0500
+
+    Merge pull request #207 from 10up/update/css--removing-sass-references
+    
+    Update/css  removing sass references
+
+commit 0b123e0d36ecf56f640123766395d6fe4f54f8a4
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Dec 6 14:44:54 2017 -0500
+
+    Fix highlighter extra border
+
+commit 6ca9e6847ce06285c41b28371e6a339cf93f4fc6
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Dec 6 14:36:39 2017 -0500
+
+    Simplify and modernize with composer work flow.
+
+commit c68f3c997c211fe861e6379e27207870f0833af0
+Merge: 2ca94b7 c1de65e
+Author: Ben Greeley <ben.greeley@10up.com>
+Date:   Mon Nov 13 13:37:30 2017 -0500
+
+    Merge branch 'gh-pages' of https://github.com/10up/Engineering-Best-Practices into feature/composer-plugins
+
+commit 2ca94b7ea5ad408acd817687b213c4481e862192
+Author: Ben Greeley <ben.greeley@10up.com>
+Date:   Mon Nov 13 13:37:17 2017 -0500
+
+    Update language used for Composer for WP themes.
+    
+    : feature/composer-plugins
+
+commit c1de65e2fa3cbfb5cdb8b14cedc22ac88becff33
+Merge: 21eda30 0e2db27
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Nov 10 13:18:35 2017 -0500
+
+    Merge pull request #205 from 10up/feature/caching-updates
+    
+    Updates to options table/transients best practices
+
+commit 0e2db27b5b30a4da323829b9528b4952337f0685
+Author: Ben Greeley <ben.greeley@10up.com>
+Date:   Fri Nov 10 09:07:49 2017 -0500
+
+    Revert to earlier version of Gemfile.lock
+    
+    : feature/caching-updates
+
+commit 7b10ab47f65856da2fd3f02cc88564b52b901f60
+Author: Ben Greeley <ben.greeley@10up.com>
+Date:   Fri Nov 10 08:47:56 2017 -0500
+
+    Reword text about plugin versions
+    
+    : feature/composer-plugins
+
+commit be7c9d26304da112a04f68e741dea824d03aa963
+Author: Ben Greeley <ben.greeley@10up.com>
+Date:   Fri Nov 10 08:43:55 2017 -0500
+
+    Include information about using Composer to manage WordPress plugins in a project.
+    
+    : feature/composer-plugins
+
+commit fbea05b64974c46a5a761aeefde92f4a9373a5be
+Author: Ben Greeley <ben.greeley@10up.com>
+Date:   Thu Nov 9 18:05:19 2017 -0500
+
+    Add missing Gemlock file
+    
+    : feature/caching-updates
+
+commit 6adac05e3ca4a478ca2da609b873ac12f017526b
+Author: Ben Greeley <ben.greeley@10up.com>
+Date:   Thu Nov 9 18:01:44 2017 -0500
+
+    Add updated information on the options table limits and issues when an options table is over 1MB in size. Updated transients API section to tie in with issues with large options tables.
+    
+    : feature/caching-updates
+
+commit 21eda30f3fcfae198000ca6cdab7f37bbe3069e7
+Merge: 61c1eef 17c8ce7
+Author: Adam Silverstein <adam@10up.com>
+Date:   Mon Oct 23 14:51:27 2017 -0400
+
+    Merge pull request #204 from ryanwelcher/fix/vcs-deleting-bs-ref
+    
+    Removing Reference to Beanstalk
+
+commit 17c8ce797ee91dd90ccfaed83f5dd43a894f4f1c
+Author: Ryan Welcher <ryan.welcher@10up.com>
+Date:   Mon Oct 23 12:24:25 2017 -0400
+
+    Remove reference to Beanstalk
+
+commit e9784e9ed70b15a6cdefe547108528b31af4b4bd
+Merge: be8e634 61c1eef
+Author: Ryan Welcher <ryan.welcher@10up.com>
+Date:   Mon Oct 23 12:22:29 2017 -0400
+
+    Merge remote-tracking branch 'upstream/gh-pages' into gh-pages
+
+commit 5c0be0c4fb70c073fe3104f71c936d27d30913e4
+Author: Tim Wright <timwright12@gmail.com>
+Date:   Fri Oct 20 14:21:10 2017 -0400
+
+    removed verbose files
+
+commit a082d17591a507bcbb15a40606b6270869eaa719
+Author: Tim Wright <timwright12@gmail.com>
+Date:   Fri Oct 20 14:19:54 2017 -0400
+
+    updated CSS docs to note rely on Sass so much. Also peppered in PostCSS
+
+commit 61c1eef510b7a6f632b619d60e294faaea281945
+Merge: fa02338 1a7e780
+Author: Ivan <github@moka.com.au>
+Date:   Mon Oct 16 09:44:47 2017 -0700
+
+    Merge pull request #203 from behzod/fix/php-syntax-errors
+    
+    Syntax errors in PHP code examples
+
+commit 1a7e78075674cbbeabd344d871e61faa19cddabc
+Author: Behzod Saidov <behzodsaidov@gmail.com>
+Date:   Fri Oct 13 17:49:47 2017 -0700
+
+    Fixed some syntax errors in code examples.
+
+commit fa02338fb6924aa286162ab02d5f6a6cb27a9571
+Merge: d0638d6 993ae81
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Fri Oct 13 12:34:23 2017 -0400
+
+    Merge pull request #202 from ericmann/autoload
+    
+    Update Autoloading Documentation
+
+commit d0638d6282e8695dbb9af232456a505faa193b57
+Merge: 1c94620 65daf45
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Fri Oct 13 09:11:07 2017 -0400
+
+    Merge pull request #197 from daveross/feature/json-ld
+    
+    Feature/json ld
+
+commit 993ae81a64c59c4575b7b3cf0c64b79fc0e10673
+Author: Eric Mann <eric@tozny.com>
+Date:   Mon Oct 2 15:19:15 2017 -0700
+
+    Update Autoloading Documentation
+    
+    WordPress has updated since the `delete`/`add` dance for handling options updates was standard practice. `update_option()` now supports an optional third parameter for toggling autoload and should be used as the preferred method for controlling options pulled into memory.
+    
+    Fixes #201
+
+commit 1c94620adfd1eff2d575bbb59c3190cee7b45259
+Merge: dd9fa52 d528418
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Sep 22 13:48:42 2017 -0400
+
+    Merge pull request #200 from tott/gh-pages
+    
+    Using the filesystem as storage can be troublesome
+
+commit d5284188476ce82709212e7dd8865b37b01f83ae
+Author: Thorsten Ott <thorsten@thorsten-ott.de>
+Date:   Wed Sep 20 21:07:21 2017 +0200
+
+    Using the filesystem as storage can be troublesome given many hosting providers block this for security reasons and/or run multi-server setups
+
+commit 65daf458b8813f47020ce42893f9d42c38a19f86
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Sat Sep 2 10:46:30 2017 -0400
+
+    Added note on including JSON-LD inline instead of linked
+
+commit 4a3f45e59c2d4b292ae45d378728a860dc13a912
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Wed Jul 19 16:55:36 2017 -0400
+
+    Added JSON-LD to the schema.org section
+
+commit 4899dc14e627f2c2bac1cbb1c7a652a351a1f733
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Wed Jul 19 16:54:45 2017 -0400
+
+    Updated link to Google Structured Data Testing Tool
+
+commit dd9fa52d1a8b1baa17d493872098759e190dc7f7
+Merge: cd161c0 a64833e
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Jul 5 22:19:09 2017 -0400
+
+    Merge pull request #196 from emeaguiar/feature/i18n-styles
+    
+    Update internationalization section styling
+
+commit a64833e5470cc8cdda8af39ff01df18848d4e3af
+Author: Mario Aguiar <mario@10up.com>
+Date:   Wed Jul 5 10:24:25 2017 -0500
+
+    Fix h4 headings
+
+commit b9d633209940deed3b1e0ea8343a5027eced4240
+Author: Mario Aguiar <mario@10up.com>
+Date:   Wed Jul 5 10:21:51 2017 -0500
+
+    Add php tags to code to trigger styling
+
+commit 5c37d6da37d25b6dfb43e61db1d53ea46958ff8b
+Author: Mario Aguiar <mario@10up.com>
+Date:   Wed Jul 5 10:16:52 2017 -0500
+
+    Make internationalization headline h3
+
+commit cd161c0455dd1ebb154cd7f6f4f6fdd3806f08fe
+Merge: fab73a2 fed7cfa
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Sun Jul 2 13:41:46 2017 -0400
+
+    Merge pull request #190 from daveross/feature/i18n
+    
+    Finishing "Promote internationalization by default"
+
+commit fed7cfa1f8d50b56e7e35a7595f3921d4dc7bf5f
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Fri Jun 30 16:17:21 2017 -0400
+
+    Removed and reworked duplicate sentence
+
+commit fab73a2ab929abe0b888478aa2a4d4234576ad24
+Merge: 1d9c93d b63942f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue May 16 20:04:38 2017 -0400
+
+    Merge pull request #191 from JPry/tools_typos
+    
+    Fix typos and update wording in Tools section
+
+commit b63942f149f9d225dd96ce099cc86d48373c14e3
+Author: Jeremy Pry <jeremy.pry@gmail.com>
+Date:   Fri May 12 14:19:43 2017 -0400
+
+    Fix typos and update wording in Tools section
+
+commit 1d9c93dff7d4666b51ee10801fe82a5c692be090
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Apr 19 13:11:46 2017 -0400
+
+    Add WP Docker to tools; remove VIP Quickstart
+
+commit e8fdc0f71f2bd24534ccbbc1eec3eaf10c55c623
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Wed Apr 19 09:07:20 2017 -0400
+
+    Restoring JavaScript.md from 10up/gh-pages w/o DOM API changes
+
+commit b53ab8945a846016b002f66bbd99e35ad42ae99d
+Merge: d4a5f25 2163ca5
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Wed Apr 19 08:58:59 2017 -0400
+
+    Merged latest gh-pages from 10up/Engineering-Best-Practices
+
+commit 2163ca5806940b3b17d826037549128efd921e83
+Merge: bc15d87 6bc0965
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Wed Apr 19 08:54:49 2017 -0400
+
+    synched gh-pages branch with 10up/Engineering-Best-Practices
+
+commit d4a5f2554c25a96a37bb79cb6137ba123aa87c34
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Wed Apr 19 08:30:52 2017 -0400
+
+    Added section on using variables in translation strings
+
+commit b38578ffb5e96775cdec5f5ae689b17f7dedf593
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Wed Apr 19 08:01:48 2017 -0400
+
+    Fixed spacing to match WordPress coding standards
+
+commit 6bc0965a943010f20f57ee1e08837d8b477c1ae9
+Merge: 1a6a9de 858d80e
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 17 12:29:47 2017 -0400
+
+    Merge pull request #172 from fuhton/feature/add-task-runners-and-bundlers
+    
+    Adding in Gulp, Browserify, and Webpack information.
+
+commit 858d80e4d7192461e0be1d37fa5baa4d9b947de2
+Merge: 248b0d0 1a6a9de
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 17 12:29:41 2017 -0400
+
+    Merge branch 'gh-pages' into feature/add-task-runners-and-bundlers
+
+commit 5bd8de842c80b314a6563e0277256f0166f83157
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Tue Apr 11 12:54:00 2017 -0400
+
+    Fleshed out the Escaping Strings section
+
+commit 94062a84c858c30f6cc82da4aed44954986f0a6d
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Tue Apr 11 12:18:51 2017 -0400
+
+    Fleshed out the section on Text Domains
+
+commit 4f236e648d156c9a99de6b52b9e5be0fafbb04e0
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Tue Apr 11 12:18:39 2017 -0400
+
+    Link to Otto's internationalization article
+
+commit 52329a9922f97b51cc8f54f31c41f537d0147c2b
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Tue Apr 11 11:58:37 2017 -0400
+
+    Typo fix. @props stevegrunwell
+
+commit 1a6a9de3cd8194eba8c5d250ccee1e1cb7d3abc7
+Merge: 769181d aa57542
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 10 22:41:11 2017 -0400
+
+    Merge pull request #182 from noplanman/178.4-grammar
+    
+    Fix various grammar mistakes
+
+commit aa575420060ad6f006bbeb1817b5e507225491e5
+Merge: 1410e99 769181d
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 10 22:41:05 2017 -0400
+
+    Merge branch 'gh-pages' into 178.4-grammar
+
+commit 769181da2399a25f0bd6a69a89cba3c5056f88bc
+Merge: 75eb83c 69e0012
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 10 22:33:33 2017 -0400
+
+    Merge pull request #180 from noplanman/178.2-https_links
+    
+    HTTP to HTTPS, fix and update links
+
+commit 75eb83cc645f95a0f5f668b768aecf1704da85fd
+Merge: 9b4780c 3b21212
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 10 22:32:11 2017 -0400
+
+    Merge pull request #188 from ivankruchkoff/feature/remove-archive-branches
+    
+    Remove archive branches in favour of deleting them
+
+commit 3b212127b9626821aad5ec039bf3a275be10f13d
+Author: Ivan@Kruchkoff.com <ivan@kruchkoff.com>
+Date:   Mon Apr 10 23:16:54 2017 -0300
+
+    Remove archive branches in favour of deleting them
+
+commit 248b0d05449bae9697d9317a364eedc61bf6f5bd
+Author: Nicholas Smith <nicholasparkersmith@gmail.com>
+Date:   Sun Apr 2 16:28:51 2017 -0400
+
+    Highlevel expac of what a bundler is
+
+commit 872803283e67b4c3f7a8e3e374a1e85f191999e3
+Merge: 6686659 9b4780c
+Author: Nicholas Smith <nicholasparkersmith@gmail.com>
+Date:   Sun Apr 2 16:27:08 2017 -0400
+
+    Merge remote-tracking branch 'upstream/gh-pages' into feature/add-task-runners-and-bundlers
+
+commit 1410e9957d084ecfba055e66dd2a0e824f28497f
+Author: Armando Lüscher <armando@noplanman.ch>
+Date:   Mon Mar 6 15:03:22 2017 +0100
+
+    Fix various grammar mistakes.
+
+commit 69e001284473aa0e51ed12fdd451d35216300e98
+Author: Armando Lüscher <armando@noplanman.ch>
+Date:   Mon Mar 6 13:58:37 2017 +0100
+
+    Encourage HTTPS for WordPress examples.
+
+commit a5f94fb6672ec982fec8ebd32c05fa052bf2dcef
+Author: Armando Lüscher <armando@noplanman.ch>
+Date:   Mon Mar 6 13:20:22 2017 +0100
+
+    HTTP to HTTPS, fixing updated links.
+
+commit 9b4780c31d37ea73e84aa8e1018db0069b99965f
+Merge: 19a4a73 08146c3
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Mar 7 09:27:30 2017 -0500
+
+    Merge pull request #179 from noplanman/178.1-typos
+    
+    Correct typos
+
+commit 08146c3ef85b355e232b8f89834523c9e5a4950f
+Author: Armando Lüscher <armando@noplanman.ch>
+Date:   Mon Mar 6 14:23:55 2017 +0100
+
+    Correct typos.
+
+commit 6686659dda62713578475b7cb09b8f4533e05fc5
+Author: Nicholas Smith <nicholasparkersmith@gmail.com>
+Date:   Fri Feb 10 12:46:15 2017 -0500
+
+    Removing the notion that Webpack is a task manager
+
+commit 3d8ca20491093d5b761933b2b9d1509f6eb3757a
+Author: Nicholas Smith <nicholasparkersmith@gmail.com>
+Date:   Mon Jan 30 16:39:44 2017 -0500
+
+    Removing Browserify from Tools section.
+    
+    Browserify is mostly eclipsed by Webpack for our internal tooling uses.
+
+commit 19a4a7337e43a7c28817dacef3983deed42be720
+Merge: 8e09099 b724242
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Jan 30 09:19:45 2017 -0500
+
+    Merge pull request #166 from RachelRVasquez/feature-add-a11y-tools
+    
+    Feature add a11y tools
+
+commit 8e09099aa745c8d01db1cf8bbfd5fd6f8405ece1
+Merge: 4eb5c24 904ae59
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Sun Jan 29 20:07:49 2017 -0500
+
+    Merge pull request #167 from stevegrunwell/feature/changelog-semver
+    
+    Add sections on Semantic Versioning and Change Log standards to the Version Control page
+
+commit 4eb5c24632b2785004c68198a31417f6d30c2973
+Merge: f351302 7e24af2
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Sun Jan 29 20:04:58 2017 -0500
+
+    Merge pull request #153 from RachelRVasquez/fix-headings-in-correct-order
+    
+    Fix headings in correct order
+
+commit f3513025367a5fd75a4dfc77d3b9d1e71cd80293
+Merge: ce30946 bd5b869
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Sun Jan 29 19:59:32 2017 -0500
+
+    Merge pull request #175 from daveross/sessions
+    
+    Added PHP section on sessions
+
+commit bd5b8692d706cb8dbd251f4bed412f82316af197
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Thu Jan 26 20:50:38 2017 -0500
+
+    Added PHP section on sessions
+
+commit bc15d871344cd8e62a86ee9ce62d1f63311ff7fb
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Thu Jan 26 20:39:08 2017 -0500
+
+    Added PHP section on sessions
+
+commit 1c641a9d58c1df80e1359bc2697270b73363b382
+Merge: 6164328 ce30946
+Author: David Ross <David Ross>
+Date:   Thu Jan 26 20:36:08 2017 -0500
+
+    Merge branch 'gh-pages' of github.com:10up/Engineering-Best-Practices into gh-pages
+
+commit 127f30d0adc646a098712e3e84968e2337ca8770
+Author: Nicholas Smith <nicholasparkersmith@gmail.com>
+Date:   Mon Jan 16 08:56:19 2017 -0500
+
+    Adding in info about Gulp, Browserify, and Webpack information.
+
+commit ce30946f86dd1dda1fe1f80e6d16601c7356ff15
+Merge: 60c18e6 cacf369
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Thu Dec 29 13:00:27 2016 -0500
+
+    Merge pull request #171 from JustinSainton/patch-1
+    
+    Add missing quote to Accessibility example
+
+commit cacf369565083b85165c51903326889f208295b2
+Author: Justin Sainton <justinsainton@gmail.com>
+Date:   Mon Dec 26 19:57:32 2016 -0800
+
+    Add missing quote to Accessibility example
+
+commit 7e24af2516b1ab2a50fa3033ed4ce0daae66613f
+Merge: fe5e9f4 60c18e6
+Author: Rachel Vasquez <rachelrvasquez@gmail.com>
+Date:   Tue Nov 15 22:42:07 2016 -0500
+
+    resolve conflicts
+
+commit 60c18e6aaa0aae4e434c3d0477b3247aa3a98a9d
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Nov 10 10:57:28 2016 -0500
+
+    Restructure migration best practices
+
+commit 0dbb828ed5dd79c72f57fa19b8321dc45b1fbda2
+Merge: c452b15 9df5aec
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Nov 7 00:19:27 2016 -0500
+
+    Merge pull request #163 from 10up/feature/asset-versioning
+    
+    Add the Asset Versioning section
+
+commit c452b154559ae1f672850b479a6d6c52c49de20b
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Oct 31 17:06:55 2016 -0400
+
+    Add external integration note to third party integrations section.
+
+commit 7f6c00d092ff377365404fd6bfd4d7c92cb88424
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Oct 31 17:04:23 2016 -0400
+
+    More external integration migration tips
+
+commit a3d9122b14d789b1518788b1243df9764efab6cd
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Oct 31 17:01:23 2016 -0400
+
+    Highlight importance of external integrations in migration section
+
+commit bd50472b49a529e62f133bcf4a5e0eb8259c2006
+Merge: 7a0c682 09771ad
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Oct 31 16:59:48 2016 -0400
+
+    Merge pull request #164 from dkotter/fix/migration
+    
+    Expand the Social section into an External Integrations section
+
+commit 7a0c6823e3100c6019812fad0a7b2c5fbe7d2b0f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Oct 27 14:16:52 2016 -0400
+
+    Update github banner
+
+commit 904ae59aa487b058a6e9ab0c293f257032f8ff78
+Author: Steve Grunwell <stevegrunwell@gmail.com>
+Date:   Thu Oct 20 17:31:36 2016 -0400
+
+    Advise that distributed plugins include a CHANGELOG.md file, following the Keep a Changelog standard
+
+commit ddee8af1918dfde718b1ddd877cfd051a832e73d
+Author: Steve Grunwell <stevegrunwell@gmail.com>
+Date:   Thu Oct 20 17:31:01 2016 -0400
+
+    Add a section on semantic versioning, including Jake-based examples
+
+commit b724242d49a401c92a5cd2b90e50238a825e2dfb
+Author: Rachel Vasquez <rachel.vasquez@10up.com>
+Date:   Thu Oct 20 11:15:59 2016 -0400
+
+    add tota11y
+
+commit 1fd58add7bbb385cce004599c6da5b074ad930ec
+Author: Rachel Vasquez <rachel.vasquez@10up.com>
+Date:   Thu Oct 20 10:09:08 2016 -0400
+
+    Add some accessibility tools under our Tools section
+
+commit 09771ad16d16d8292587ca8deb9b29ff30e8b3c4
+Author: Darin Kotter <darin.kotter@my.eitc.edu>
+Date:   Tue Oct 18 09:17:29 2016 -0600
+
+    Expanding a bit on the Social part of the migrations, changing that to be more broad (External integrations), adding more details, and moving that slightly up the page.
+
+commit 9df5aeceaa447b4db55950d2ab162819e7de1b23
+Author: Jon Bellah <jonbellah@Mac-Mini.local>
+Date:   Tue Oct 18 07:32:41 2016 -0600
+
+    Initial pass at the asset versioning section
+
+commit fe5e9f41cf5b8f719eaa1760fefe0b7329fdcd13
+Merge: 53cbd22 c56b6d1
+Author: Rachel Vasquez <rachel.vasquez@10up.com>
+Date:   Thu Oct 13 11:18:42 2016 -0400
+
+    Merge remote-tracking branch '10up/gh-pages' into fix-headings-in-correct-order
+
+commit 33c078a001b1030265b5304eb64f74719eaad328
+Merge: f4ad580 c56b6d1
+Author: Rachel Vasquez <rachel.vasquez@10up.com>
+Date:   Thu Oct 13 11:17:45 2016 -0400
+
+    Merge remote-tracking branch '10up/gh-pages' into gh-pages
+
+commit c56b6d1865f50830789aa60c8960051eeba81f27
+Merge: b849332 8de7521
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Oct 12 12:25:36 2016 -0400
+
+    Merge pull request #158 from 10up/fix/tools-migrations-order
+    
+    Swap weight/order of "Tools" and "Migrations" in the header
+
+commit 8de7521180600342cef36f4f8a57b81d15be9c4e
+Author: dkoo <derrick.koo@10up.com>
+Date:   Wed Oct 12 12:10:58 2016 -0400
+
+    Swap weight/order of "Tools" and "Migrations" in the header
+
+commit b8493324a74d54f2a602d424a7f2acf968d3bf0b
+Merge: 1ea6183 c5afe7b
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Oct 12 11:28:29 2016 -0400
+
+    Merge pull request #157 from 10up/fix/menu-nav-alignment
+    
+    Fix alignment of menu items with new page order
+
+commit c5afe7b5eccc18952f37fc5c15fc2616d43e08ab
+Author: dkoo <derrick.koo@10up.com>
+Date:   Tue Oct 11 11:21:13 2016 -0400
+
+    Fix alignment of menu items with new page order
+
+commit 53cbd227ac31f1aea3c1c0037126f4b18739a5e4
+Merge: e50d86e 1ea6183
+Author: Rachel Vasquez <rachel.vasquez@10up.com>
+Date:   Sun Oct 9 23:13:27 2016 -0400
+
+    Merge remote-tracking branch '10up/gh-pages' into fix-headings-in-correct-order
+
+commit f4ad580c18b831d3d35e2fa997754f62745ff8e9
+Merge: 425cb3b 1ea6183
+Author: Rachel Vasquez <rachel.vasquez@10up.com>
+Date:   Sun Oct 9 23:08:26 2016 -0400
+
+    Merge remote-tracking branch '10up/gh-pages' into gh-pages
+
+commit 1ea6183902d9ce5c63aa1edd04bbcd145aa9b051
+Merge: f981f5c 5ccb7c7
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Oct 6 13:48:14 2016 -0400
+
+    Merge pull request #156 from RachelRVasquez/fix-menu-nav-uneven-alignment
+    
+    Fix menu nav uneven alignment
+
+commit 5ccb7c7516b8e5855ef69159780935bdffa57d6e
+Author: Rachel Vasquez <rachel.vasquez@10up.com>
+Date:   Thu Oct 6 13:01:43 2016 -0400
+
+    fix for menu order - github not understanding sort by weight
+
+commit 425cb3b278cea15ef9cba1f0719874735695b39b
+Merge: 88ae527 f981f5c
+Author: Rachel Vasquez <rachel.vasquez@10up.com>
+Date:   Tue Oct 4 17:18:09 2016 -0400
+
+    Merge remote-tracking branch '10up/gh-pages' into gh-pages
+
+commit e50d86e9170912242585610543fe2e20b932746a
+Merge: 7f26536 f981f5c
+Author: Rachel Vasquez <rachel.vasquez@10up.com>
+Date:   Tue Oct 4 14:28:37 2016 -0400
+
+    resolve conflicts and adjust headings
+
+commit f981f5cac6e6eb4da587216e379a08742462aff1
+Merge: 783ca6c 3c04bda
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Oct 4 10:42:57 2016 -0400
+
+    Merge pull request #152 from RachelRVasquez/fix-add-aria-label-on-navs
+    
+    add aria labels to header and footer nav
+
+commit 783ca6c45c584831049d1dd2c9dbc2c2252baed8
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Oct 4 10:41:51 2016 -0400
+
+    Move decoupling plugin/theme section to design patterns
+
+commit 4d53cac5c525adeb068f33e1f6eca6f4dd2aa089
+Merge: 4ed75bd c810f3e
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Oct 4 10:39:41 2016 -0400
+
+    Merge pull request #144 from dsawardekar/feature/add-theme-support-guidelines
+    
+    Adds section on decoupling plugin and theme code
+
+commit 4ed75bd5b7776e6ab0c10ecea207cc61027fade5
+Merge: 88ae527 6f9b17d
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Oct 4 10:35:42 2016 -0400
+
+    Merge pull request #143 from dsawardekar/feature/add-editor-config-section
+    
+    Feature/add editor config section
+
+commit 7f265369ea4dc4af94049fae333ccbcd099a8ef8
+Author: Rachel Vasquez <rachel.vasquez@10up.com>
+Date:   Sat Sep 24 01:01:57 2016 -0400
+
+    update styles and correct some heading structures
+
+commit 44b15f56c7e58b8df91e6840fd7d0c7a803f593f
+Author: Rachel Vasquez <rachel.vasquez@10up.com>
+Date:   Fri Sep 23 17:33:25 2016 -0400
+
+    rest of markdown corrected, will need to adjust styles
+
+commit d961cbe9f7288f2434456afe9e94ea03c6e2a9bd
+Author: Rachel Vasquez <rachel.vasquez@10up.com>
+Date:   Fri Sep 23 17:13:11 2016 -0400
+
+    starting to bump headings on level up to follow H1
+
+commit 3c04bdabbcd2c93df8011a24013cb366e2af62d0
+Author: Rachel Vasquez <rachel.vasquez@10up.com>
+Date:   Fri Sep 23 00:30:55 2016 -0400
+
+    add aria labels to header and footer nav
+
+commit 88ae527ba95628d5c5aeb3a316520db3d6c9fc1d
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Sep 2 10:56:56 2016 -0400
+
+    Merge migrations; lots of url clean up for working locally
+
+commit b75b1d8c5ea32aa035860fbdaf5181cbcc2dec90
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Sep 2 10:35:12 2016 -0400
+
+    Clean up
+
+commit fa17b6ffe1c63c97d26a4a10178afd14962d57eb
+Author: Darin Kotter <darin.kotter@my.eitc.edu>
+Date:   Thu Sep 1 12:02:33 2016 -0600
+
+    Add the main Migrations page.
+
+commit 9948a6753b97cf65a3375511e48c5869a6ef600e
+Author: Darin Kotter <darin.kotter@my.eitc.edu>
+Date:   Thu Sep 1 11:45:48 2016 -0600
+
+    Proofreading fixes. Added a section about improving performance.
+
+commit 3f8262175f8e34a2bc558342df6f741caedffd14
+Author: Darin Kotter <darin.kotter@my.eitc.edu>
+Date:   Fri Aug 26 16:12:34 2016 -0600
+
+    First pass at a new Migration section.
+
+commit 9f5b87ffc3563dac56f985c67cb201fcfe89af42
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Aug 24 12:01:36 2016 -0400
+
+    Remove last modified.
+
+commit c2872a2c8d94d924b1d592425cad419a7cb7c52f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Aug 16 09:28:14 2016 -0400
+
+    Add Github banner
+
+commit 946340db6fa86214fadf04917f89f97efd7343c7
+Merge: c696e11 b8dda91
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Aug 3 10:49:43 2016 -0400
+
+    Merge pull request #145 from timwright12/gh-pages
+    
+    Added Default HTML standard for accessible tabs
+
+commit b8dda913879d58ae313e26dafdbc7c7781989d5a
+Author: Tim Wright <tim@Mclean-Stevenson.local>
+Date:   Tue Aug 2 12:56:34 2016 -0400
+
+    Added Default HTML standard for accessible tabs
+
+commit c810f3e030c39a253d5e33877c8d19d74f7a8a4b
+Author: Darshan Sawardekar <darshan@sawardekar.org>
+Date:   Sun Jul 3 17:07:35 2016 +0530
+
+    Adds section on decoupling plugin and theme code
+
+commit 6f9b17d9c044c4a927313d824c6699568337b058
+Author: Darshan Sawardekar <darshan@sawardekar.org>
+Date:   Sun Jul 3 16:27:57 2016 +0530
+
+    Removes tab_width since same as indent_size.
+
+commit c5fc9f4065d781891e6a7ecf87a645bb64dc5803
+Author: Darshan Sawardekar <darshan@sawardekar.org>
+Date:   Sun Jul 3 16:22:37 2016 +0530
+
+    Adds Editor Config section
+
+commit c696e11c7f50a734cc95fb0d9fbe49a8edaee92e
+Merge: 3e9c979 6a3dd95
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Sat Jun 25 17:32:11 2016 -0400
+
+    Merge pull request #141 from ryanwelcher/feature/transient-timeout-autoload
+    
+    Changing "but" to "by" in the section about Transient autoloading
+
+commit 6a3dd95d80196575dd6db5b43485b146009d2cbc
+Author: Ryan Welcher <ryan.welcher@10up.com>
+Date:   Wed Jun 22 14:01:46 2016 -0400
+
+    Changing but to by in the section about Transient autoloading
+
+commit 3e9c979cbee30e427ce32c8f48c9e5bf61fff9c6
+Merge: d36342e 1e98f2e
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Jun 9 15:33:03 2016 -0400
+
+    Merge pull request #140 from 10up/fix/javascript-infinite-loop
+    
+    Fixes infinite while loop
+
+commit 1e98f2ed2eff95c658efe9062dbc57c40d32adac
+Author: Ryan Sommers <ryan@10up.com>
+Date:   Thu Jun 9 12:11:36 2016 -0700
+
+    Fixes infinite while loop
+
+commit d36342e0da38d72d083262c0ec4e6458960cdf2b
+Merge: 3aeba06 7215eb4
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Sat May 14 23:30:14 2016 +0100
+
+    Merge pull request #138 from stevegrunwell/docs/gitflow
+    
+    Flesh out the plugin version control workflow
+
+commit 3aeba06e0aa86da0a7de32ebf3c64f635b5ea63f
+Merge: f08735a 2c53f1f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Sat May 14 23:26:37 2016 +0100
+
+    Merge pull request #100 from daveross/feature/howdoc-nowdoc
+    
+    First stab at a note on heredoc/nowdoc syntax ( issue #92 )
+
+commit f08735a56f321d28efaf8bfd714ba48cd6325cb0
+Merge: 3bbb4d6 abff9e2
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Sat May 14 23:23:00 2016 +0100
+
+    Merge pull request #139 from 10up/fix/php-typo
+    
+    Fixed missing closing parenthesis and used proper comparison
+
+commit abff9e24efaa303d5d492331abbb2ac4dd55c3c3
+Author: Chris Wiegman <chris.wiegman@10up.com>
+Date:   Fri Apr 8 09:04:45 2016 -0400
+
+    Fixed missing closing parenthesis and used proper comparison
+
+commit 7215eb48eacc732676c8e18400d680225bcf0ad8
+Author: Steve Grunwell <stevegrunwell@gmail.com>
+Date:   Thu Mar 24 12:14:01 2016 -0400
+
+    Flesh out the plugin version control strategy, providing links to Atlassian's Gitflow documentation
+
+commit 3bbb4d682a0ed14634c3fad14bb1ac7c557f5b4b
+Merge: 1b1c8f7 f6a72fc
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Mar 18 10:07:44 2016 -0400
+
+    Merge pull request #137 from zrothauser/gh-pages
+    
+    Switch to Kramdown markdown engine and Rouge syntax highlighter
+
+commit f6a72fc30b57c74c39dbdbd916c828da9126c31c
+Author: Zack Rothauser <zrothauser@gmail.com>
+Date:   Thu Mar 17 21:16:58 2016 -0500
+
+    Fix base path
+
+commit b5537fe39f3403d72cc35f726aa0043922604dbf
+Author: Zack Rothauser <zrothauser@gmail.com>
+Date:   Thu Mar 17 21:14:00 2016 -0500
+
+    Update PHP codeblocks to meet indentation requirements for Kramdown, update styles for new markup
+
+commit ca02801d05dc4806660d57424389c26825a8a615
+Author: Zack Rothauser <zrothauser@gmail.com>
+Date:   Thu Mar 17 16:34:22 2016 -0500
+
+    Include github-pages gem in Gemfile to create environment similar to Github Pages locally, add to readme file with instructions
+
+commit 7706fc5cffcad60d93fbdb9295c8d56c39d45c6f
+Author: Zack Rothauser <zrothauser@gmail.com>
+Date:   Thu Mar 17 16:17:19 2016 -0500
+
+    Switch to Kramdown for markdown and rouge for syntax highlighting
+
+commit 1b1c8f786039203ef3646485ae3be93c2b9da5db
+Merge: c723c04 caba25c
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Mar 15 12:44:29 2016 -0400
+
+    Merge pull request #131 from jonathantneal/feature/commit-messages
+    
+    Update Commit message best practices
+
+commit c723c043b4a35f8ed0d48c4cfe036eb5c448d5b1
+Merge: 906ce4c af2b326
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Mar 15 09:27:59 2016 -0400
+
+    Merge pull request #134 from bswatson/gh-pages
+    
+    Add Variable VVV for site creation.
+
+commit 906ce4c83c01dff24c1068c2e69dda6841d27936
+Merge: 9983b7d c791d53
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Mar 15 09:26:12 2016 -0400
+
+    Merge pull request #46 from brandondove/patch-2
+    
+    Validation shouldn't store incorrect values
+
+commit 9983b7d2bcbf3603bf32fb9ceae42e08d4b5fcdb
+Merge: ff474c7 6d855e5
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Mar 15 09:07:28 2016 -0400
+
+    Merge pull request #127 from jonathantneal/feature/editor-config
+    
+    JS Best Practices Configurations
+
+commit af2b32659ee8732e9e49bfa7f780e4b8aa6472f4
+Author: Brian Watson <bswatson@gmail.com>
+Date:   Sun Jan 31 10:40:27 2016 -0500
+
+    Fixing random modification of taskrunner.
+
+commit dd1d325de18ad6aef7316130c29d9d53b1c0caf8
+Author: Brian Watson <bswatson@gmail.com>
+Date:   Sat Jan 30 12:49:27 2016 -0500
+
+    Add Variable VVV for site creation.
+
+commit caba25ca5fe76b7695bbafb9d42c923c8bedef26
+Author: Jonathan Neal <jonathantneal@hotmail.com>
+Date:   Mon Jan 11 13:25:08 2016 -0500
+
+    Update Commit message best practices
+
+commit ff474c7f1eed4c51a20569624011a2aa102ef102
+Merge: a864b81 dabe18a
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Jan 12 13:30:32 2016 -0500
+
+    Merge pull request #130 from jonathantneal/feature/javascript
+    
+    Event Delegation: Update JS example
+
+commit 6d855e5e3f5435a95d49acb272cfc8d4b0fd800e
+Author: Jonathan Neal <jonathantneal@hotmail.com>
+Date:   Mon Jan 4 09:08:13 2016 -0500
+
+    Add code convention configurations
+
+commit dabe18a079736686fd373e342be702d0a13337fd
+Author: Jonathan Neal <jonathantneal@hotmail.com>
+Date:   Mon Jan 11 12:46:06 2016 -0500
+
+    Event Delegation: Correct JS example
+    
+    The plain JS version should reflect the behavior accomplished by the jQuery version
+
+commit a864b81c007c34791c6b1efd2f03141ea0bea568
+Merge: 271ef3f 19188a0
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Jan 6 22:45:12 2016 -0500
+
+    Merge pull request #128 from ryanwelcher/feature/transient-timeout-autoload
+    
+    Feature/transient timeout autoload
+
+commit 19188a0ed2b1b395b1db55772b0663a9828126bb
+Author: Ryan Welcher <ryan.welcher@10up.com>
+Date:   Wed Jan 6 22:16:12 2016 -0500
+
+    Adding note about autoloading transients
+
+commit be8e6340b38a8dc969ef45610ec4a8265b75c4ba
+Merge: 5b9b37a 271ef3f
+Author: Ryan Welcher <ryan.welcher@10up.com>
+Date:   Wed Jan 6 22:02:06 2016 -0500
+
+    Merge remote-tracking branch 'upstream/gh-pages' into gh-pages
+
+commit 271ef3f7c69f3f1517747d335d02911e8d93fe34
+Merge: 9a31ad4 1d4c0a7
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Jan 5 14:23:05 2016 -0500
+
+    Merge pull request #91 from daveross/feature/namespaces
+    
+    First stab at more guidance regarding namespaces
+
+commit 9a31ad48c2aa532dbebdfcec0eaca4d09e69222a
+Merge: 9630552 3fb3420
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Jan 5 14:17:56 2016 -0500
+
+    Merge pull request #85 from nicoladj77/feature/isset-vs-in-array
+    
+    use isset instead of in_array
+
+commit 96305525b5e8468d0f6617359ca6f6133e757536
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Jan 4 17:16:08 2016 -0500
+
+    Fix typo in PHP.md
+
+commit 3c34fb78d51aac8fb5ba616f7824bb555a6e229e
+Merge: 9b7498c 10176ec
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Jan 4 17:14:29 2016 -0500
+
+    Merge pull request #118 from raphaelkross/gh-pages
+    
+    Fix to bug "esc_js() description is inaccurate"
+
+commit 9b7498c0d3e7a4c95943c4037fd4bf6caeb283b0
+Merge: 382200f 5cd2604
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Jan 4 17:08:31 2016 -0500
+
+    Merge pull request #111 from smy315/gh-pages
+    
+    Added h3 and h4 styling to visually breakout the content.
+
+commit 3fb34201028ba8062c13751a77e11a0684af64d8
+Author: Nicola Peluchetti <nicola.peluchetti@gmail.com>
+Date:   Sun Jan 3 22:52:31 2016 +0100
+
+    rewrotwe the piece to put the focus on creating arrays correctly
+
+commit 382200f8b014bc3a79d7d3cb2ccb59120c5b3b59
+Merge: 78e2783 b7f0a1f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Dec 14 15:06:37 2015 -0500
+
+    Merge pull request #120 from emeaguiar/fix/indentation
+    
+    Remove white-space: nowrap; from code blocks span
+
+commit b7f0a1f97b3c20d489d540941d070915024ba459
+Author: Mario Aguiar <mario@10up.com>
+Date:   Fri Dec 11 16:16:14 2015 -0600
+
+    Remove white-space: nowrap; from code blocks span
+    
+    This fixes #99
+
+commit 61643281828fb14288d3ef22691633af3c0fbd08
+Merge: fe91e7b 78e2783
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Fri Dec 4 11:21:15 2015 -0500
+
+    Merge branch 'gh-pages' of https://github.com/10up/Engineering-Best-Practices into gh-pages
+
+commit 10176ecbabd18f67d4107c204ecc53506901f24c
+Author: Rafael Angeline <contact@code9rs.com>
+Date:   Fri Dec 4 00:42:19 2015 -0200
+
+    wp_json_encode better description
+
+commit ded95c6e227633bd05da52186b8e7defd2a4438b
+Author: Rafael Angeline <contact@code9rs.com>
+Date:   Fri Dec 4 00:37:11 2015 -0200
+
+    Adds wp_json_encode and more detailed explanation to esc_js
+
+commit fb36192c9dc0e2e1ea87cd3c8d2d28d9b6ca6a98
+Author: DrewAPicture <drew@10up.com>
+Date:   Wed Oct 28 09:30:06 2015 -0600
+
+    Stub out first pass for i18n.
+
+commit 78e2783a2ee47ba415c1f3af4aee19311001a660
+Merge: 1c670b1 5678c34
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Oct 19 16:00:24 2015 -0400
+
+    Merge pull request #113 from rclilly/gh-pages
+    
+    Fix typos
+
+commit 5678c34cb1d891998babb14afa50a8131b872d1a
+Author: Robert Lilly <robert@debbieataylorllc.com>
+Date:   Sat Oct 17 08:07:16 2015 -0700
+
+    Fix typos
+
+commit 1c670b1c774afb8b6c927febb42277b164d865e4
+Merge: ca6c475 2309e04
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Oct 14 15:23:20 2015 -0400
+
+    Merge pull request #112 from hamptonpaulk/gh-pages
+    
+    Minor Tidy Up
+
+commit 2309e048df0a61de72c50998b72625d506087dee
+Author: Hampton Paulk <hamptonpaulk@gmail.com>
+Date:   Wed Oct 14 13:17:49 2015 -0400
+
+    remove extra markdown header hash
+
+commit 8d62c7fb694f7cf5f85c185584562f052047dd5a
+Author: Hampton Paulk <hamptonpaulk@gmail.com>
+Date:   Wed Oct 14 13:14:11 2015 -0400
+
+    add page link to data storage section
+
+commit 5cd2604774af8dfe1e2f5b7a355a73d6f0c602e9
+Author: Sang-Min Yoon <smyoon315@gmail.com>
+Date:   Mon Oct 5 16:55:05 2015 -0400
+
+    Added h3 and h4 styling
+
+commit ca6c475080fd4c2472511f44ca54db9b27b4f881
+Author: Sang-Min Yoon <smyoon315@gmail.com>
+Date:   Mon Oct 5 14:03:07 2015 -0400
+
+    Minor menu ordering fixes
+    
+    1) Third-Party Integrations missing from the homepage
+    2) Rearranged Code Style & Documentation on the hompeage and dropdown menu to match the content order.
+    3) Used "and" instead of "&" to match navigation and page titles.
+
+commit 5b6408daf6747a5c36929e56d26bf1e9e0e4e222
+Merge: 1b221e6 b5960e5
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 8 17:35:49 2015 -0400
+
+    Merge pull request #107 from emeaguiar/gh-pages
+    
+    Adding sanitize.css to reset options
+
+commit b5960e59cecc59e8bf9b380bb6e1f584280daa73
+Author: Mario Aguiar <mario@10up.com>
+Date:   Wed Sep 2 12:06:33 2015 -0500
+
+    Edit last modified date
+
+commit 99ff100a5a6083b81fa5dd7bff12d2d187ffa0ee
+Author: Mario Aguiar <mario@10up.com>
+Date:   Wed Sep 2 12:04:07 2015 -0500
+
+    Adding sanitize.css as option
+
+commit 2c53f1f38532ccdbbf81f9d6d1c3535ad55eb890
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Mon Aug 24 18:09:39 2015 -0400
+
+    "As convenient as they are..."
+    
+     (Scott's suggestion)
+
+commit aa43e2b5089ba0b801aab9f4335bace2c92bcb79
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Mon Aug 24 18:07:14 2015 -0400
+
+    Edits to the text
+
+commit f421b904aa9d019a8a570452d9d2744efa74d06e
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Mon Aug 24 18:02:11 2015 -0400
+
+    Simplified example code. Factored out $x.
+
+commit 9404ed5880ba2113c07853654a6f01aec79c5c80
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Fri Aug 21 15:50:53 2015 -0400
+
+    Rewrote the last bit
+
+commit 42b5009eeba1b07f73501c3b817646bf1de8c7dd
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Fri Aug 21 15:50:32 2015 -0400
+
+    10up *and VIP* prefer late escaping
+
+commit d92a4f2df55f9423e2c4643cfdaf76c7b65b6e9a
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Fri Aug 21 15:50:05 2015 -0400
+
+    Remove example that's too close to a later example now
+
+commit 4e72cc2a8bf3542eb7b09f38fe733a5eea3ccf36
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Fri Aug 21 15:49:29 2015 -0400
+
+    Uncomment "naughty" line of sample code
+
+commit 6a051db50497747d490783c985c6526da9e95604
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Fri Aug 21 15:49:12 2015 -0400
+
+    Code formatting
+
+commit e2ccada409735f6eface65b5869b16736ac26b38
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Fri Aug 21 12:52:16 2015 -0400
+
+    Typos
+
+commit bde964a02d45ea274a51d784c46181f70d418f0e
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Fri Aug 21 12:44:33 2015 -0400
+
+    Bought draft of "Avoid Heredoc and Nowdoc"
+
+commit 1b221e663a792e2557d1e8f6c6e59a1920539711
+Merge: 8d85df6 e1f8b25
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Aug 17 11:19:39 2015 -0400
+
+    Merge pull request #97 from ryanwelcher/php/hooks-in-constructor
+    
+    Avoiding hooks in class constructor
+
+commit e1f8b257b7886a8776d5ac6eb21b8e6d60a73448
+Author: Ryan Welcher <ryan.welcher@10up.com>
+Date:   Sat Aug 15 00:40:42 2015 -0400
+
+    Better sentence structure
+
+commit 6a0fbedb5fe974255328e6aa7efc0000a6aae40c
+Author: Ryan Welcher <ryan.welcher@10up.com>
+Date:   Sat Aug 15 00:34:33 2015 -0400
+
+    Adding note about not adding hooks in the __construct method of a class
+
+commit 1d4c0a7ea17b4e1091b8c02dd5d5c85296a4b537
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Wed Aug 12 14:13:53 2015 -0400
+
+    Edits to the namespaces section
+    * "Common" namespaces now a suggestion
+    * Lead engineers on a project define & document namespacing strategy
+    * Not on how "use" declarations document dependencies for future engineers
+
+commit 32681be626601e3405b8cf953a0d723446072679
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Wed Aug 12 14:11:48 2015 -0400
+
+    Removed opening PHP tag from code example
+
+commit c9c3077c7cb23cbc7ec837e678153b8579b6f919
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Wed Aug 12 14:11:17 2015 -0400
+
+    "using" => "including" (better wording)
+
+commit f60dacfee345bc3b89c2059ccf4bd7655e389ee2
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Tue Aug 11 16:23:27 2015 -0400
+
+    Replaced '-' with '_' in example namespace paths. Went with a slightly more recent fictional company in the example namespace name. Still a robot, though, dangit.
+
+commit 8d85df6c1dbe5d769500eaf157d3e3fe9eba73bc
+Merge: c37eda8 0f992df
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Mon Aug 3 15:06:40 2015 -0600
+
+    Merge pull request #96 from JonBellah/gh-pages
+    
+    Going back to default {{HOME_PATH}} - idea didnt work
+
+commit 0f992dfe737c1e02b93163ff7a0837becc91e898
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Mon Aug 3 15:06:21 2015 -0600
+
+    Going back to default {{HOME_PATH}} - idea didnt work
+
+commit c37eda8e49ffca105b874b3e47b0dcc6b0c50a06
+Merge: 0936217 220740d
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Mon Aug 3 15:03:17 2015 -0600
+
+    Merge pull request #95 from JonBellah/gh-pages
+    
+    Add leading slash to fix broken asset issue
+
+commit 220740d09b19a8542da9ee63904f13806acf797f
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Mon Aug 3 15:02:17 2015 -0600
+
+    Add leading slash to fix broken asset issue
+
+commit 093621717bc2d8937a99aa338fcb45455cb39020
+Merge: d00179c 6ba75e3
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Aug 3 09:40:31 2015 -0400
+
+    Merge pull request #93 from JonBellah/gh-pages
+    
+    Reference local assets, rather than based on {{HOME_PATH}}. Fixes iss…
+
+commit d00179c8b592a481294def020553404d8116dcb0
+Merge: fafdf92 a9cc36e
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Aug 3 09:39:32 2015 -0400
+
+    Merge pull request #94 from justintucker/fix/update-js-inline-documentation-link
+    
+    Update link to correct page on WordPress core handbook.
+
+commit a9cc36e29712ee4757f8d31906e14987229ece29
+Author: justintucker <justin@certaintrings.com>
+Date:   Sun Aug 2 21:57:50 2015 -0700
+
+    Update link to correct page on WordPress core handbook.
+
+commit 6ba75e3b946f0869846ff13fbc602cfb17190ff5
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Wed Jul 29 17:02:46 2015 -0600
+
+    Reference local assets, rather than based on {{HOME_PATH}}. Fixes issue where assets would always reference the live version while working locally, unless config was changed.
+
+commit 092193a547633cef0f46398cb500447955a97fb5
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Wed Jul 15 17:18:54 2015 -0400
+
+    drop the 'should' to be more precise. props @scottlee
+
+commit fe91e7bc029c78ca69c55aa133a5ba41564d54fe
+Merge: d44a7b6 85dd277
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Wed Jul 15 17:03:12 2015 -0400
+
+    Merge branch 'feature/namespaces' into gh-pages
+
+commit 85dd2776d695b09d9369850f6f5591aca9ea2268
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Wed Jul 15 16:57:45 2015 -0400
+
+    First stab at more guidance regarding namespaces
+
+commit d44a7b6b03110746b4b9a96d16895c11c0cb6f83
+Merge: 9fe1ffd fafdf92
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Wed Jul 15 14:44:16 2015 -0400
+
+    Merge branch 'gh-pages' of https://github.com/10up/Engineering-Best-Practices into gh-pages
+
+commit fafdf9213244989d2226f6918450afa54a61c639
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Jun 26 10:16:06 2015 -0400
+
+    Clean up post not in markdown
+
+commit b34a610901ecd16e8a4567f527137d76868a7db2
+Merge: 2cf7f6e 4f9c13f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Jun 25 17:59:54 2015 -0400
+
+    Merge pull request #87 from elliott-stocks/feature/post__not_in
+    
+    Add suggestion for avoiding 'post__not_in'
+
+commit 2cf7f6e162f9470bbbf2ec77c80e1787ec72d91e
+Merge: 4cdec6d 50ee0a0
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Jun 25 17:58:38 2015 -0400
+
+    Merge pull request #86 from elliott-stocks/fix/optimize-readability-markup
+    
+    Fix indentation in PHP code block; fixes #84
+
+commit 4f9c13f6bdcb56f9adf29abf52537d69b1e1c47c
+Author: Elliott Stocks <elliottstocks@hotmail.co.uk>
+Date:   Thu Jun 25 12:17:15 2015 +0100
+
+    Add suggestion for avoiding 'post__not_in'
+
+commit 50ee0a00f9cfc0deb6362399dcfc8b6c781de63c
+Author: Elliott Stocks <elliottstocks@hotmail.co.uk>
+Date:   Thu Jun 25 11:58:08 2015 +0100
+
+    Fix indentation in PHP code block
+    
+    Ensure the code block reflects best practices
+
+commit 4cdec6d3acf5cc559b714d7c76c0d89165c5f6b7
+Merge: 3a32c20 b9f4525
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Jun 24 12:41:57 2015 -0400
+
+    Merge pull request #82 from ericmann/integrations
+    
+    Integrations
+
+commit 456f0bfa1bf43ed23cf7853617ee27357d417102
+Author: Nicola Peluchetti <nicola.peluchetti@gmail.com>
+Date:   Wed Jun 24 18:34:29 2015 +0200
+
+    reformatted code example
+
+commit 211a0f726d4af8d87edf92ca225beeb2ae97db58
+Author: Nicola Peluchetti <nicola.peluchetti@gmail.com>
+Date:   Wed Jun 24 18:32:54 2015 +0200
+
+    force strict comparison in in_array
+
+commit 8dec999988e0d26cd42b87d1ccc67f347e50f185
+Author: Nicola Peluchetti <nicola.peluchetti@gmail.com>
+Date:   Wed Jun 24 18:26:02 2015 +0200
+
+    closed code tags
+
+commit 6d6adc24d015f31af001dbc12a4454e5e1b759f4
+Author: Nicola Peluchetti <nicola.peluchetti@gmail.com>
+Date:   Wed Jun 24 18:24:09 2015 +0200
+
+    added section in PHP to use isset instead of in_array
+
+commit b9f4525a0b896036392d698bf115ed767c9fe299
+Author: Eric Mann <eric@eamann.com>
+Date:   Tue Jun 23 20:44:06 2015 -0700
+
+    Remove hard references to dev keys
+
+commit e418117f17d7a1961055b796a8a2024b6d1ceb8c
+Author: Eric Mann <eric@eamann.com>
+Date:   Tue Jun 23 16:14:53 2015 -0700
+
+    Document 3rd-party integrations
+
+commit 9cb34a1dd5c006d999985ab2660af59d48fecdb8
+Author: Eric Mann <eric@eamann.com>
+Date:   Tue Jun 23 15:46:58 2015 -0700
+
+    Add integrations component
+
+commit 3a32c20c8177a3e17d441af9e5bc7193128f6fb5
+Author: John Eckman <jeckman@users.noreply.github.com>
+Date:   Sun Jun 14 07:43:46 2015 -0400
+
+    Update Version-Control.md
+    
+    typo fix in the plugin section of version control page
+
+commit 5a34c91e16a201b1607b9d8d7f104640d7fff2f6
+Merge: 3d283e5 2f41eb6
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu May 28 12:53:32 2015 -0400
+
+    Merge pull request #76 from 10up/feature/responsive-enhancements
+    
+    Made readability improvements to content and code blocks at mobile widths...
+
+commit 3d283e52441c1e9a8dc61efa97b303ec55a1c228
+Merge: 3af1034 e663e8f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu May 28 11:17:14 2015 -0400
+
+    Merge pull request #79 from fuhton/gh-pages
+    
+    JS: Change testing framework from qunit to mocha
+
+commit e663e8f9ca5830097f47e4157593dac9a5197c3e
+Author: Nicholas Smith <nicholasparkersmith@gmail.com>
+Date:   Thu May 28 11:02:58 2015 -0400
+
+    JS: Change testing framework from qunit to mocha
+
+commit 2f41eb6afd3ff7caf3fa7528cfe1470c41f28335
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Wed May 13 21:09:35 2015 -0600
+
+    Updating BASE_PATH to match master. Unintentionally added a trailing slash when pointing BASE_PATH back to production
+
+commit 6a0debca01291eff2a1899248b83fc884f7b025b
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Wed May 13 21:07:40 2015 -0600
+
+    Made readability improvements to content and code blocks at mobile widths, repositioned the navigation menu so that it does not wrap or overlap as the browser shrinks - this also brings our Best Practices site in line with the design on 10up.com
+
+commit 3af1034ec304036ff1406a446b2a139a1100d1fb
+Merge: a8cd5fa 350bd08
+Author: Luke Woodward <woodward.lucas@gmail.com>
+Date:   Mon May 4 07:47:23 2015 -0700
+
+    Merge pull request #71 from ocean90/fix/css-inheritance-code
+    
+    CSS: Add a blank line before the inheritance code block.
+
+commit 350bd08d425926dd4e8c70772028b3191a1b3951
+Author: Dominik Schilling <dominikschilling+git@gmail.com>
+Date:   Mon May 4 16:35:40 2015 +0200
+
+    CSS: Add a blank line before the inheritance code block.
+
+commit a8cd5fa0e30e1700658ca36fbcb2b5ba038ae1a4
+Merge: 19e28cc 9d40335
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon May 4 10:12:38 2015 -0400
+
+    Merge pull request #70 from 10up/fix/markup-tabindex
+    
+    Fix/markup tabindex
+
+commit 9d40335d17a84823ace8910ab8ecd836cfcff207
+Author: AndrewMowe <andrew@team-eight.com>
+Date:   Sun May 3 21:23:24 2015 -0500
+
+    add quotes around tabindex attr example values
+
+commit 19f0cb064d77ada322450ab573be2359f4bcdeaf
+Author: AndrewMowe <andrew@team-eight.com>
+Date:   Sun May 3 21:20:05 2015 -0500
+
+    change tabindex recommendation
+
+commit 19e28cc05c7c4bd12aaa061336616f9693dd7d1d
+Merge: 9bd1c35 6f98653
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Sun May 3 21:43:02 2015 -0400
+
+    Merge pull request #69 from 10up/fix/language-tweaks
+    
+    improved grammar, verb tenses and clarity
+
+commit 6f986532fc357eb989061157a837752d8fa18107
+Author: AndrewMowe <andrew@team-eight.com>
+Date:   Fri May 1 09:38:27 2015 -0600
+
+    improved grammar, verb tenses and clarity
+
+commit 9bd1c35cdc7ff5f1bfc10842d72bdcfd25c34ab1
+Merge: 077046d ce62c3d
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Thu Apr 30 16:36:02 2015 -0600
+
+    Merge branch 'url-fix' into gh-pages
+
+commit ce62c3d94285e8a6b97e5e44c4a7e1d52143b823
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Thu Apr 30 16:34:08 2015 -0600
+
+    Removing trailing slash on the Introduction page items, as its not required and creates issues
+
+commit 077046dc00b9609c67c835941f0a29a9d92c42ce
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Thu Apr 30 16:28:42 2015 -0600
+
+    Trailing slash on logo link to fix FOUC
+
+commit bae24f151fe1217f1352137d955450d8639359e0
+Merge: 928e724 4ba754c
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Thu Apr 30 16:25:51 2015 -0600
+
+    Merge pull request #68 from 10up/fixing-fouc-2
+    
+    Fixing the logo link in the header to add a trailing slash to prevent FO...
+
+commit 4ba754c0f2263723174ab07179ba416468c553ae
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Thu Apr 30 16:25:12 2015 -0600
+
+    Fixing the logo link in the header to add a trailing slash to prevent FOUC.
+
+commit 928e7241fd052a8a9696105d0a9296aebbfe6f0d
+Merge: 85005da 3ad91ec
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Apr 30 13:24:29 2015 -0600
+
+    Merge pull request #66 from 10up/fix/language-tweaks
+    
+    tweaked some language, grammar, and added a main tag to a markup example
+
+commit 85005da203eb1fa6ef857aca6d4b38f391247375
+Merge: b59a900 fc7a3ff
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Thu Apr 30 11:56:49 2015 -0600
+
+    Merge pull request #67 from 10up/fixing-fouc
+    
+    Fixing FOUC issue that occurs when clicking links found in the table of ...
+
+commit fc7a3ffe09fe6bd67b501a86c5970abdc1b80e6f
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Thu Apr 30 11:55:32 2015 -0600
+
+    Fixing FOUC issue that occurs when clicking links found in the table of contents, which results, oddly enough, from no slash being present between the page URL and the anchor tag
+
+commit 3ad91ecccb03fbb885c3c0c22a8b4be061a3b3ff
+Author: AndrewMowe <andrew@team-eight.com>
+Date:   Wed Apr 29 02:50:15 2015 -0600
+
+    tweaked some language, grammar, and added a main tag to a markup example
+
+commit b59a900d8eebe1de69503737637842352beadc8f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Apr 28 15:36:42 2015 -0600
+
+    Fix markup typo and sentence style.
+
+commit 6d763c3ed325e781e9b860b8146aa1086a40b1fe
+Merge: 9142de1 01966d1
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Apr 28 15:34:45 2015 -0600
+
+    Merge pull request #64 from adamsilverstein/markup-fixes
+    
+    Slight typo corrections, set header weight for modernizr to match other ...
+
+commit 01966d16e1e7041a5f1fe3b5c9fb260ad0f4c13f
+Author: Adam Silverstein <adam@10up.com>
+Date:   Tue Apr 28 12:21:24 2015 -0600
+
+    Slight typo corrections, set header weight for modernizr to match other headers, add tabindex info.
+
+commit 9142de1c45a3827fd6bc2f3a40c1329082cb2de1
+Merge: 9423b00 4d6341e
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 27 22:28:43 2015 -0600
+
+    Merge branch 'markup-css-structure' into gh-pages
+
+commit 4d6341ebaa10db7c6c343f6d840dd3c89202a61b
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Mon Apr 27 22:24:51 2015 -0600
+
+    Rewrite to minimal and valid
+
+commit f3afad61baaa497e051a1d20c13e2c2937d6191b
+Author: Luke Woodward <woodward.lucas@gmail.com>
+Date:   Mon Apr 27 22:23:52 2015 -0600
+
+    use PHP blocks instead of HTML for PHP examples
+
+commit b90ce7804f8aa296e135cacf463be62998be1ac1
+Merge: ca08c8c 9bb0eb1
+Author: Luke Woodward <woodward.lucas@gmail.com>
+Date:   Mon Apr 27 22:21:27 2015 -0600
+
+    Merge branch 'markup-css-structure' of github.com:10up/Engineering-Best-Practices into markup-css-structure
+
+commit ca08c8c2afb3f5b09cbbe6fe7f4600c8e3181963
+Author: Luke Woodward <woodward.lucas@gmail.com>
+Date:   Mon Apr 27 22:19:24 2015 -0600
+
+    Add additional PHP notes and examples
+
+commit 9bb0eb1e9b86649205ea55073bd77e537510cdf0
+Merge: 1895546 fe515df
+Author: Corey Ellis <corey@coreyellis.me>
+Date:   Mon Apr 27 22:12:56 2015 -0600
+
+    Merge branch 'markup-css-structure' of https://github.com/10up/Engineering-Best-Practices into markup-css-structure
+
+commit 189554687c68ced046417b210f474c32dc55fc1f
+Author: Corey Ellis <corey@coreyellis.me>
+Date:   Mon Apr 27 22:12:52 2015 -0600
+
+    removed ambiguous statement on framework use
+
+commit fe515df430bc5183b39dd82fd00e2635e4276824
+Merge: 244c035 3fb0676
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 27 22:09:26 2015 -0600
+
+    Merge branch 'markup-css-structure' of github.com:10up/Engineering-Best-Practices into markup-css-structure
+
+commit 244c035f842cd796f7cabdb02c1d34eb819cf49f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 27 22:09:18 2015 -0600
+
+    SassDoc formatting
+
+commit 3fb0676611d04aae6a4a883c87d84ddfd3eda67c
+Merge: 68917b0 911772b
+Author: Karine <do.karine@gmail.com>
+Date:   Mon Apr 27 22:02:43 2015 -0600
+
+    Merge branch 'markup-css-structure' of github.com:10up/Engineering-Best-Practices into markup-css-structure
+
+commit 68917b002ac91a3454b3ec4a82ad14bde10d4ecd
+Author: Karine <do.karine@gmail.com>
+Date:   Mon Apr 27 22:02:27 2015 -0600
+
+    Sass structure
+
+commit 911772bf25deb6041ac4a361868e74adc8801e50
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 27 21:58:41 2015 -0600
+
+    Style ordered lists
+
+commit d25175f6d0500c84b3a41a0f306e636041ac099e
+Merge: e383457 501a404
+Author: Corey Ellis <corey@coreyellis.me>
+Date:   Mon Apr 27 21:56:44 2015 -0600
+
+    Merge branch 'markup-css-structure' of https://github.com/10up/Engineering-Best-Practices into markup-css-structure
+
+commit e38345795191902b6d7eee443e24d67b655e0886
+Author: Corey Ellis <corey@coreyellis.me>
+Date:   Mon Apr 27 21:56:40 2015 -0600
+
+    slight change in wording around media query usage
+
+commit 501a4042cb593691a4a94047370f849d7420e231
+Merge: 6cc53c2 2bcbf7e
+Author: Karine <do.karine@gmail.com>
+Date:   Mon Apr 27 21:54:42 2015 -0600
+
+    Merge branch 'markup-css-structure' of github.com:10up/Engineering-Best-Practices into markup-css-structure
+
+commit 6cc53c2789faf39d6a91ce60367808c0134d2c01
+Author: Karine <do.karine@gmail.com>
+Date:   Mon Apr 27 21:54:25 2015 -0600
+
+    Update file structure
+
+commit 2bcbf7e8516196500e8b083320c8eaf346a4354c
+Merge: 76c8dff 50acc48
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 27 21:43:29 2015 -0600
+
+    Merge branch 'markup-css-structure' of github.com:10up/Engineering-Best-Practices into markup-css-structure
+
+commit 76c8dffe8a9e5ca3832a47c29c8990b1abfe9873
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 27 21:43:22 2015 -0600
+
+    Markup grammatical fixes
+
+commit 50acc481d2a0b657365ffd08783ff48ae52840fb
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Mon Apr 27 21:42:00 2015 -0600
+
+    Updating progressive enhancement section
+
+commit 2849313505c85e8cad6861d26cd1370051e350d2
+Merge: a406611 a0d9be0
+Author: Karine <do.karine@gmail.com>
+Date:   Mon Apr 27 21:34:07 2015 -0600
+
+    Merge branch 'markup-css-structure' of github.com:10up/Engineering-Best-Practices into markup-css-structure
+
+commit a4066117f2d40d36767d094da8ec26fb31576370
+Author: Karine <do.karine@gmail.com>
+Date:   Mon Apr 27 21:33:53 2015 -0600
+
+    Update example, markup
+
+commit a0d9be0fe5849f21df4a82d6269f2fb746b52491
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 27 21:24:51 2015 -0600
+
+    Fix typo
+
+commit cb6f1de3cd2073cc3176b0d9170a1ad86796dcba
+Merge: d9dc4f6 b4525b0
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 27 21:24:47 2015 -0600
+
+    Merge branch 'markup-css-structure' of github.com:10up/Engineering-Best-Practices into markup-css-structure
+
+commit d9dc4f6260a5ad7308a0e78298d630693d6e904e
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 27 21:22:53 2015 -0600
+
+    Fix typo
+
+commit b4525b0f70a65572770f59b7a8f18735a6aa8442
+Merge: 584d8e9 210e356
+Author: Corey Ellis <corey@coreyellis.me>
+Date:   Mon Apr 27 21:22:38 2015 -0600
+
+    Merge branch 'markup-css-structure' of https://github.com/10up/Engineering-Best-Practices into markup-css-structure
+
+commit 584d8e975d6b736d290ee06e47f05ec592f45b68
+Author: Corey Ellis <corey@coreyellis.me>
+Date:   Mon Apr 27 21:22:20 2015 -0600
+
+    minified js was missing
+
+commit 210e356f7b1d05f8f01f01f4f9a03d8b5a0df879
+Merge: 393d869 4602d60
+Author: Karine <do.karine@gmail.com>
+Date:   Mon Apr 27 21:21:11 2015 -0600
+
+    Merge branch 'markup-css-structure' of github.com:10up/Engineering-Best-Practices into markup-css-structure
+
+commit 393d869ae1652542807cf35c76febb7f8ffb3d57
+Author: Karine <do.karine@gmail.com>
+Date:   Mon Apr 27 21:20:56 2015 -0600
+
+    Update page with weight
+
+commit 4602d60c01a0069a77b39fd62e277b48214aed81
+Merge: d0bf04b 2519774
+Author: Corey Ellis <corey@coreyellis.me>
+Date:   Mon Apr 27 21:20:00 2015 -0600
+
+    Merge branch 'markup-css-structure' of https://github.com/10up/Engineering-Best-Practices into markup-css-structure
+
+commit 2519774716c17a97ee3f07d94909716c55f320bd
+Merge: e6ff8d7 9467574
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Mon Apr 27 21:19:32 2015 -0600
+
+    Merge branch 'table-of-contents' into markup-css-structure
+
+commit d0bf04b140d53ab2ca5f04733a9d4de24ec5d3cc
+Author: Corey Ellis <corey@coreyellis.me>
+Date:   Mon Apr 27 21:15:00 2015 -0600
+
+    changing expand to modify for clarity
+
+commit 9467574893eb081c4370dcda42540371e854e8ae
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Mon Apr 27 21:13:42 2015 -0600
+
+    Add CSS to table of contents
+
+commit e6ff8d70615b4fc694c53d516da9762a0b4cd1ac
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 27 21:12:46 2015 -0600
+
+    Use h3 for headings in markup
+
+commit 011496a35fd0d13d3f28b499cc312d4b0aa7d7ba
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 27 21:09:11 2015 -0600
+
+    Back to tops on CSS
+
+commit 512364a6b42cebc42b824637f7a3f4770685f0c3
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 27 21:07:01 2015 -0600
+
+    Add back to tops to markup
+
+commit 46d4a49b9e75289e786b6b3f4bc7c6e2912f294f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 27 20:47:02 2015 -0600
+
+    No need for to top link at the top of structure
+
+commit b3c8ebab9985be7bd1c28c3245c98afa71acf630
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Apr 24 15:51:27 2015 -0400
+
+    Remove unnecessary header
+
+commit ceb1e5a66b7403f4a809c048ba9745f963e285d0
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Apr 24 15:50:27 2015 -0400
+
+    Add file organization tab and homepage link
+
+commit 195b32c1203d9aa6a52f4ac0ebb8e33f720ea7ee
+Merge: d77d349 fba86af
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Apr 24 15:48:48 2015 -0400
+
+    Merge branch 'markup-css-structure' of github.com:10up/Engineering-Best-Practices into markup-css-structure
+    
+    Conflicts:
+            _includes/markdown/Structure.md
+
+commit d77d3496a430d8dc3da192427fdaac89dc028cab
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Apr 24 15:48:20 2015 -0400
+
+    Remove templates section
+
+commit fba86af86506cd5973549a6c65e936afe1a4e538
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Apr 24 15:41:54 2015 -0400
+
+    Remove templates
+
+commit a197615996c484e961b60ceb8c5e9c443c66bfc5
+Author: Corey Ellis <corey@coreyellis.me>
+Date:   Fri Apr 24 14:38:52 2015 -0500
+
+    adding project structure docs
+
+commit ea942b44779bb439929e1c095b2a07e3e5b06132
+Merge: f9a89d2 7dcc693
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Thu Apr 23 16:29:09 2015 -0600
+
+    Merge branch 'markup-css-structure' of https://github.com/10up/Engineering-Best-Practices into markup-css-structure
+
+commit f9a89d2b49ece1556b7cdd7e6a811f0abbfd7b81
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Thu Apr 23 16:28:58 2015 -0600
+
+    Updating menu for markup section
+
+commit 7dcc6934e4703677d3cbae5a4b779b94d3e72a2d
+Merge: d085dbc f08f2bf
+Author: Karine <do.karine@gmail.com>
+Date:   Thu Apr 23 18:13:23 2015 -0400
+
+    Merge branch 'markup-css-structure' of github.com:10up/Engineering-Best-Practices into markup-css-structure
+
+commit d085dbcd0a73e3845170be78eeae1c5dd3650d19
+Author: Karine <do.karine@gmail.com>
+Date:   Thu Apr 23 18:13:06 2015 -0400
+
+    Update CSS.md headers
+
+commit f08f2bfcf5a121889adee9e01090977228b0d070
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Apr 23 17:51:32 2015 -0400
+
+    Don't need another project structure section
+
+commit 7b32700667c3e6fb186b7ba74ed5682f58c581bb
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Apr 23 17:47:01 2015 -0400
+
+    Fix markup
+
+commit 7ad77718c83e3fdabf6ade5736f9eabd605ad8f1
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Apr 23 17:45:20 2015 -0400
+
+    Fix markup
+
+commit e0254922de09ffe7e610b84cb2b57fccd2ab38e5
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Thu Apr 23 15:38:29 2015 -0600
+
+    Adding markup section
+
+commit 9877a3e073834eaec532147b0d86df0eb7061fd7
+Author: Karine <do.karine@gmail.com>
+Date:   Thu Apr 23 16:45:14 2015 -0400
+
+    Add CSS
+
+commit 361c531a8879a524acca3cc2dd36159bc0e867de
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Apr 23 16:37:02 2015 -0400
+
+    Setup framework for html, css, and project structure
+
+commit 9423b0002eb34dca548a312a4e4e93e5a59194b6
+Merge: 7130576 ef29a15
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Apr 6 11:23:27 2015 -0400
+
+    Merge pull request #62 from adamsilverstein/add-jsdocs-link
+    
+    Update link to the WordPress JavaScript Documentation Standards
+
+commit ef29a15cf952af418b58144ed37738cac1e8c39e
+Author: Adam Silverstein <adam@10up.com>
+Date:   Mon Apr 6 09:18:21 2015 -0600
+
+    Update link to the WordPress JavaScript Documentation Standards
+
+commit 71305763dc5b8c194f8b36036c6c799def8b6f1e
+Merge: 7180e08 69d7a4b
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Apr 2 13:14:58 2015 -0400
+
+    Merge pull request #60 from bswatson/complex-feature-branches
+    
+    Add additional recommendations for complex feature branches.
+
+commit 7180e084676dbb2c00005828c9b5b525d67e7363
+Merge: 5b9b37a 196bfed
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Apr 2 13:13:47 2015 -0400
+
+    Merge pull request #61 from bswatson/commit-practices
+    
+    Add general recommendations for commits and merges
+
+commit 196bfed61a503b776e98ae59cb40cf18b819f212
+Author: Brian Watson <bswatson@zeke-2.local>
+Date:   Thu Apr 2 12:20:50 2015 -0400
+
+    Add general recommendations for commits and merges
+
+commit 69d7a4be32d40f531160fa2825eca060653b1a4b
+Author: Brian Watson <bswatson@zeke-2.local>
+Date:   Thu Apr 2 12:05:59 2015 -0400
+
+    Add additional recommendations for complex feature branches.
+
+commit 5b9b37afa100e89f700d0b9d7ba2e5b7e7296c6b
+Merge: 98945dc 4522559
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Feb 26 16:47:48 2015 -0500
+
+    Merge pull request #59 from JonBellah/gh-pages
+    
+    Increasing the width of the content and preserving lines of code in code...
+
+commit 45225593194cd62fb8f05acfb056363ee34ced6d
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Thu Feb 26 15:45:26 2015 -0600
+
+    Increasing the width of the content and preserving lines of code in code blocks, allowing for overflow-x to scroll if necessary.
+
+commit 98945dcbe5a9c964a55d25355c6fd11839b18bd4
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Feb 2 09:53:21 2015 -0500
+
+    Fix list formatting
+
+commit 6e8da4d6cf9964b0528b9aa52296f2c5105f360e
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Feb 2 09:52:21 2015 -0500
+
+    Rephrasing and slight corrections on wp_query vs get_posts vs query_posts
+
+commit 95587aaf82a6df7393fb703978d94f0307e43547
+Merge: c7d7df9 cdfe5ce
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Feb 2 09:41:18 2015 -0500
+
+    Merge pull request #58 from Jaace/feature/wp-query-handling
+    
+    WP_Query vs. get_posts() vs query_posts()
+
+commit 9fe1ffdc4d7a9e06acfb6c21316b69fbad52f474
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Thu Jan 22 11:50:43 2015 -0500
+
+    Tweaked JavaScript based on feedback. Added notes about createTextNode() and the classList API
+
+commit cdfe5cea9f55de6f5005c413646840665921f67f
+Author: Jason <jason.boyle@10up.com>
+Date:   Thu Jan 22 11:24:43 2015 -0500
+
+    WP_Query vs. get_posts() vs query_posts()
+    
+    New section added outlining differences between WordPress querying
+
+commit 183c47fedfa947d5d02e020cb14f435cf6009153
+Author: Dave Ross <dave.ross@10up.com>
+Date:   Mon Jan 19 19:02:08 2015 -0500
+
+    Use the DOM API to Insert HTML
+
+commit c7d7df9fcae5aa5e42a3eebd91017a8b926d7879
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Jan 15 12:28:19 2015 -0500
+
+    Remove broken image; make sure documentation code example is correctly parsed as PHP
+
+commit e85fbff23a85dfa436a62977e07493cede107083
+Merge: 77839a0 9f800a9
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Jan 15 12:25:13 2015 -0500
+
+    Merge pull request #50 from 10up/feature/documentation-section
+    
+    Docblock Long Description Emphasis
+
+commit 77839a018d0df33a9b4fb6c2653b276d1380ae75
+Merge: 751c84b 6f73ced
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Dec 23 13:54:46 2014 -0500
+
+    Merge pull request #56 from JonBellah/gh-pages
+    
+    Reverting to specified base protocol.
+
+commit 6f73ced7f4858d4700cb87e75936cf2321936977
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Tue Dec 23 12:19:59 2014 -0600
+
+    Using protocol agnostic base calls causes FOUC with the Javascript protocol detection. Reverting to a specified base protocol (https)
+
+commit 751c84b6ee5d9cf9dcd7bf2370e34e3b974adfbf
+Merge: e695960 a5f9452
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Dec 23 12:45:29 2014 -0500
+
+    Merge pull request #55 from JonBellah/gh-pages
+    
+    Updating to protocol agnostic requests and forcing SSL
+
+commit a5f94528beac954a54aa6bbf30779a7f0893d8a6
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Tue Dec 23 11:33:55 2014 -0600
+
+    Cmon Jon, pay attention. Adding missing semi-colon
+
+commit d4951fca13aa36f20df21cd7d28aa3eec2663983
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Tue Dec 23 11:32:46 2014 -0600
+
+    Fixing spacing, operators, and adding missing semi-colon
+
+commit 4bbe6880869fd8a2c68c2eb27ab4de22dbe50070
+Author: Jon Bellah <jbellah@gmail.com>
+Date:   Tue Dec 23 11:21:12 2014 -0600
+
+    Updating to protocol agnostic requests and forcing SSL
+
+commit e695960d8f67d7e2fb5d74ac5af198e5161491fb
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Dec 23 11:31:38 2014 -0500
+
+    update_post_meta_cache and update_post_meta_cache should be set to FALSE to avoid the extra query
+
+commit b1e0a9103375262ad0dbe061897508c9717c4575
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Dec 23 10:59:25 2014 -0500
+
+    Cleanup markdown
+
+commit ed9c8b7eb5609a8a2fa03bcd5cce9d5bef1e0ceb
+Merge: efdc6b8 09cbe88
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Dec 23 10:59:55 2014 -0500
+
+    Merge pull request #54 from helenhousandi/gh-pages
+    
+    More performance-related args for WP_Query section
+
+commit 09cbe88bc236743de9391841851ea64f6d4341da
+Author: Helen Hou-Sandi <helen.y.hou@gmail.com>
+Date:   Thu Dec 18 16:19:53 2014 -0500
+
+    More performance-related args for WP_Query section
+
+commit efdc6b8d41195ec9ecb6c68a541af4e9eb2c952f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Dec 1 10:23:16 2014 -0500
+
+    Clarify dependancy documentation. Closes #52
+
+commit 9f800a994cebc6b26b55a85b782d8c2742eb8b77
+Author: James Mehorter <james@10up.com>
+Date:   Wed Nov 19 13:11:08 2014 -0500
+
+    Code Style / Documentation Section Addition
+    
+    Revised the docblock spacing to only one space per column spacer after speaking with @Drewjaynes and implementing his suggestion for this.
+
+commit 7392bfcd00b7b981879688237207453f01293d83
+Merge: 716510f fd399e7
+Author: James Mehorter <james@10up.com>
+Date:   Wed Nov 19 13:05:41 2014 -0500
+
+    Merge branch 'gh-pages' into feature/documentation-section
+
+commit fd399e7011649ebce714f7caf3f505f46a733342
+Merge: 1c2fb25 14b13ad
+Author: James Mehorter <james@10up.com>
+Date:   Wed Nov 19 13:05:24 2014 -0500
+
+    Merge branch 'gh-pages' of github.com:10up/Engineering-Best-Practices into gh-pages
+
+commit 716510fe6fcbf91a98e85fd053cfd9b68ba7ab27
+Author: James Mehorter <james@10up.com>
+Date:   Wed Nov 19 13:04:59 2014 -0500
+
+    Code Style / Documentation Section Addition
+    
+    Relocated the add_filter hook above the example function to present better context.
+
+commit 8a74af008a01402fe17cd65376c5a49a61fbf9b4
+Author: James Mehorter <james@10up.com>
+Date:   Wed Nov 19 13:02:45 2014 -0500
+
+    Code Style / Documentation Section Addition
+    
+    Corrected a minor spacing issue per WP Coding Standards
+
+commit 912406640db1cbde25618e04fc1ab062d9d13896
+Author: James Mehorter <james@10up.com>
+Date:   Wed Nov 19 13:02:05 2014 -0500
+
+    Code Style / Documentation Section Addition
+    
+    Flushed out the example code docblock alignment
+
+commit e62aa592100c3bfff2c4cadfc27bad3fee2f9117
+Author: James Mehorter <james@10up.com>
+Date:   Wed Nov 19 12:56:18 2014 -0500
+
+    Code Style / Documentation Section Addition
+    
+    Modified the example function name so it better matches what the function actually does (per @Rachelbacker's feedback)
+
+commit a2e3e6886dffe5cf20038242810f73ce06a8f266
+Author: James Mehorter <james@10up.com>
+Date:   Wed Nov 19 12:55:14 2014 -0500
+
+    Code Style / Documentation Section Addition
+    
+    Revised the example code snippet per @Rachelbacker's feedback that I was incorrectly speaking about protected meta soley for the purpose of hiding it from the Custom Fields meta box.
+    
+    The new language speaks more to public vs protected meta and explains the difference.
+
+commit 14b13ad466b22ef7c5ffb12705d9a29b6caa0eed
+Merge: f3d4f90 260136e
+Author: John P. Bloch <johnpbloch@gmail.com>
+Date:   Wed Nov 19 10:52:09 2014 -0600
+
+    Merge pull request #51 from 10up/hotfix/fix-package-link
+    
+    Hotfix for f3d4f9005b since HOME_PATH is not working
+
+commit 260136ea9e03987ff53092d9c88bb657ff21fc1c
+Author: Rachel Baker <rachel@rachelbaker.me>
+Date:   Wed Nov 19 10:46:57 2014 -0600
+
+    Hotfix for f3d4f9005b since HOME_PATH is not working inside included file.
+
+commit f3d4f9005b7c9ecb4b1faefe48ffdd935d4393ad
+Merge: c963b6d 9525bd1
+Author: Rachel Baker <rachel@rachelbaker.me>
+Date:   Wed Nov 19 10:19:41 2014 -0600
+
+    Merge pull request #49 from thinkstylestudio/patch-1
+    
+    FIxed broken link
+
+commit 28b6b6592e59f64bd57e7e614f31a47d616296ce
+Author: James Mehorter <james@10up.com>
+Date:   Wed Nov 19 09:37:30 2014 -0500
+
+    Code Style / Documentation Section Addition
+    
+    Included the add_filter() call for our hide_post_meta_from_custom_fields example function. This doubles as another opportunity for a docblock long description example.
+
+commit ba81e68d30b3385d787227e48d3a7e732b3e4816
+Author: James Mehorter <james@10up.com>
+Date:   Wed Nov 19 09:36:18 2014 -0500
+
+    Code Style / Documentation Section Addition
+    
+    Added some missing periods to the docblock example showcasing doblock long description.
+
+commit ddf1e6bec8ec43d2d14921b5678a881dda1d2b30
+Author: James Mehorter <james@10up.com>
+Date:   Tue Nov 18 14:18:55 2014 -0500
+
+    Code Style / Documentation Section Addition
+    
+    Included an image of a plaque which displays the Martin Golding quote: "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+
+commit fc4e6e21e0565e419e825a663cb39ca58961847d
+Author: James Mehorter <james@10up.com>
+Date:   Tue Nov 18 14:16:58 2014 -0500
+
+    Code Style / Documentation Section Addition
+    
+    Added a paragraph which speaks to our desire for strong docblock long descriptions which state 'why' and 'what'. Included a good example of a function with a verbose docblock long description.
+
+commit 1c2fb25035a36d615701c5f51bb89b633fe3cdec
+Merge: 4c358c9 c963b6d
+Author: James Mehorter <james@10up.com>
+Date:   Tue Nov 18 13:08:35 2014 -0500
+
+    Merge branch 'gh-pages' of github.com:10up/Engineering-Best-Practices into gh-pages
+
+commit 9525bd1d8a77075c1b3e7e4fc2b5127a5ee8e3fd
+Author: Theron Smith <theron@thinkstylestudio.com>
+Date:   Wed Nov 12 13:10:35 2014 -0700
+
+    removed hardcoded link added {{ HOME_PATH }}
+
+commit 786326a7ecbaa0ef64edab694f86b6649e25bbe9
+Author: Theron Smith <theron@thinkstylestudio.com>
+Date:   Wed Nov 12 10:19:44 2014 -0700
+
+    FIxed broken link
+    
+    Package manager link was pointing back to version control page insead of tools
+
+commit c963b6d1ccc714fef937a6d8b48412d2783c8049
+Merge: 221fbe5 ac03dc3
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Nov 12 09:49:50 2014 -0500
+
+    Merge pull request #35 from thinkstylestudio/gh-pages
+    
+    possible fix for h3 titles being hidden by navbar
+
+commit 221fbe579299be4c7a2bbd338da15e517bce86de
+Merge: f859c96 d912a67
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Nov 12 09:46:03 2014 -0500
+
+    Merge pull request #48 from brandondove/patch-4
+    
+    wp_nonce_field instead of wp_create_nonce
+
+commit f859c96453c331e5a4e368e07118e0c63a6f1095
+Merge: 96d5090 99f5c35
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Nov 12 09:45:36 2014 -0500
+
+    Merge pull request #47 from brandondove/patch-3
+    
+    Example doesn't match description
+
+commit 96d5090a9cea9d89967e6ad2ec175245ab812720
+Merge: 35c9177 47e9a64
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Nov 12 09:37:20 2014 -0500
+
+    Merge pull request #45 from brandondove/patch-1
+    
+    Fixes typo
+
+commit d912a67011c722a767079b7bb780018f04358bbc
+Author: Brandon Dove <brandon@pixeljar.net>
+Date:   Tue Nov 11 22:54:39 2014 -0800
+
+    wp_nonce_field instead of wp_create_nonce
+    
+    If you want to output a nonce field, you're using the wrong function.
+
+commit 99f5c358cd5abce2b63daef6d81ba818a8e1350d
+Author: Brandon Dove <brandon@pixeljar.net>
+Date:   Tue Nov 11 22:48:53 2014 -0800
+
+    Example doesn't match description
+    
+    Just referencing incorrectly named variables.
+
+commit c791d5374aa8a184a65c76069715fc7e49ce75ec
+Author: Brandon Dove <brandon@pixeljar.net>
+Date:   Tue Nov 11 22:45:32 2014 -0800
+
+    Validation shouldn't store incorrect values
+    
+    The validation example that was used leans more towards sanitization if you ask me. Validation should only check that the data is valid. If it's not valid, it should return an error rather than save data that doesn't match what was submitted.
+
+commit 47e9a647d50a612577645d64d2b18d38f8cc0d31
+Author: Brandon Dove <brandon@pixeljar.net>
+Date:   Tue Nov 11 22:34:40 2014 -0800
+
+    Fixes typo
+
+commit 35c917780fd2dc4b708e76358006a6718a6c193b
+Merge: 542fa18 13c180f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Nov 11 15:09:55 2014 -0500
+
+    Merge pull request #36 from javy-/patch-1
+    
+    Update js.html
+
+commit 542fa186137a869c69fde49c472d73912b55db24
+Merge: f5b0669 2efa025
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Nov 11 12:31:04 2014 -0500
+
+    Merge pull request #44 from trepmal/text-its
+    
+    it's/its fixes
+
+commit 2efa0252063c8ae2aed4d35b6a1d7c22667dff5d
+Author: Kailey Lampert <trepmal@gmail.com>
+Date:   Mon Nov 10 20:53:23 2014 -0800
+
+    it's/its fixes
+
+commit f5b0669381f15f6b49860fc0eb879024cd576440
+Merge: 5a7e3db 7b0879a
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Nov 10 19:44:40 2014 -0500
+
+    Merge pull request #43 from breakerfall/gh-pages
+    
+    interactive > interact
+
+commit 7b0879a34378178209daaec374e64c9ffa62decb
+Author: Sean <allan.sean@gmail.com>
+Date:   Tue Nov 11 07:55:00 2014 +1100
+
+    Update Tools.md
+    
+    Spelling
+
+commit 5a7e3db04e2e95a75bfb6c7b7c933cdaaf9f06db
+Merge: b47e81c 3c2a5fb
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Nov 10 14:13:41 2014 -0500
+
+    Merge pull request #42 from thoronas/gh-pages
+    
+    Minor typo fixes to PHP section
+
+commit 3c2a5fb5aac1432f8a5eaf9faa3872d78224c361
+Author: Flynn O'Connor <fsquaredesign@gmail.com>
+Date:   Sun Nov 9 22:39:11 2014 -0800
+
+    Minor typo fixes to PHP section
+
+commit b47e81cd195a77f5da1ddcc55d2fa88a60d59281
+Merge: 8bfbeb6 ba72a1d
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Sat Nov 8 23:18:42 2014 -0500
+
+    Merge pull request #41 from TheLastCicada/gh-pages
+    
+    Resolves https://github.com/10up/Engineering-Best-Practices/issues/29.  ...
+
+commit ba72a1d2d5007e9195b88b7b5ac5f57dadb133dc
+Author: Zachary Brown <zachary.g.brown@gmail.com>
+Date:   Sat Nov 8 17:15:41 2014 -0800
+
+    Resolves https://github.com/10up/Engineering-Best-Practices/issues/29.  Clarifying language for Batcache
+
+commit 8bfbeb6f41a9d28455a8098a12099b4f59dbc436
+Merge: a06d9d2 2fe9bba
+Author: Rachel Baker <rachel@rachelbaker.me>
+Date:   Thu Nov 6 11:45:18 2014 -0600
+
+    Merge pull request #40 from aaronjorbin/patch-1
+    
+    Gruntfile.js is the name of the grunt file
+
+commit 2fe9bba9a86110eee185f6631beb26e10da5f480
+Author: Aaron Jorbin <aaron@jorb.in>
+Date:   Thu Nov 6 12:40:41 2014 -0500
+
+    Gruntfile.js is the name of the grunt file
+    
+    This allows the line describing Gruntfile.js to follow the same standard as the others in the list where the name of the file is in code.
+
+commit a06d9d2e513a3d483f46144a15923838d95aae2a
+Merge: 58cd455 c9131cc
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Nov 6 10:19:28 2014 -0500
+
+    Merge pull request #39 from kovshenin/patch-1
+    
+    WP_Query doesn't call get_posts()
+
+commit c9131cc0eac2227e2a7c9fa4575e0ce540fddf48
+Author: Konstantin Kovshenin <kovshenin@gmail.com>
+Date:   Thu Nov 6 18:15:09 2014 +0300
+
+    WP_Query doesn't call get_posts()
+    
+    `WP_Query` doesn't call `get_posts()`, it's the other way round. `get_posts()` creates a new `WP_Query` object and indeed defaults `suppress_filters` to `true`. There's a gotcha too. If you need a list of posts in a widget, `WP_Query` will prepend sticky posts by default, which may or may not be intended behavior, while `get_posts()` defaults to `ignore_sticky_posts`.
+
+commit 58cd4559b5eeec65e39c291e481ce0fd52806a66
+Merge: cc37b9b 44f4fef
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Nov 6 09:43:46 2014 -0500
+
+    Merge pull request #37 from ocean90/gh-pages
+    
+    Append a trailing slash to site URL in readme.
+
+commit 44f4fef1753430fa112ed91ed1d0b65032c11e55
+Author: Dominik Schilling <dominikschilling+git@gmail.com>
+Date:   Thu Nov 6 11:56:50 2014 +0100
+
+    Append a trailing slash to site URL in readme.
+    
+    Seems like GitHub does a redirection to the site with the trailing slash but ignores https.
+
+commit 13c180f7f055a660a12a4b8df1072ee7c204597d
+Author: javy- <javylopez8@gmail.com>
+Date:   Thu Nov 6 09:28:17 2014 +0100
+
+    Update js.html
+
+commit ba45d4cf738c0b4b3ebf50bbf3d273abcee87852
+Author: javy- <javylopez8@gmail.com>
+Date:   Thu Nov 6 09:24:12 2014 +0100
+
+    Update js.html
+    
+    Missing forward slash...
+
+commit ac03dc3c5476a14819243179083266b838238e19
+Author: Theron Smith <theron@thinkstylestudio.com>
+Date:   Wed Nov 5 21:06:02 2014 -0700
+
+    possible fix for titles to show up
+    
+    The h3 titles on each of the pages are covered by the navbar across the top. I thought this might be a simple solution.
+
+commit cc37b9b0ee92aa0dd4de8aad94b10e9abb800b95
+Merge: a527ee0 300cfd4
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Nov 5 22:24:08 2014 -0500
+
+    Merge pull request #34 from rachelbaker/gh-pages
+    
+    Update href to site in Readme to use https.
+
+commit a527ee01f7c217b01d8cd96b0027679782c4dba3
+Merge: 40035e9 358163d
+Author: Rachel Baker <rachel@rachelbaker.me>
+Date:   Wed Nov 5 13:53:59 2014 -0600
+
+    Merge pull request #33 from paulirish/patch-1
+    
+    Underscores > Underscore
+
+commit 300cfd4876d947ff09309aba717601f7b3494cdf
+Author: Rachel Baker <rachel@rachelbaker.me>
+Date:   Wed Nov 5 13:51:01 2014 -0600
+
+    Update href to site in Readme to use https.
+
+commit 358163da554af90e18650e32bf23f0c004f32f8e
+Author: Paul Irish <paul.irish@gmail.com>
+Date:   Wed Nov 5 11:46:16 2014 -0800
+
+    Underscores > Underscore
+
+commit 40035e94528cf7f5fc86776e0bd57d282b1cfe7d
+Merge: 16084fa 45a06b2
+Author: Rachel Baker <rachel@rachelbaker.me>
+Date:   Wed Nov 5 13:45:52 2014 -0600
+
+    Merge pull request #32 from paulirish/gh-pages
+    
+    fix mixed mode asset requests.
+
+commit 45a06b23dcfd7a4fa09a94e3c1c31887aca16cbf
+Author: Paul Irish <paul.irish@gmail.com>
+Date:   Wed Nov 5 11:42:44 2014 -0800
+
+    fix mixed mode asset requests.
+
+commit 16084fa3faba0378a14d04c9b074f4612306fb65
+Merge: 5444feb b8f19aa
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Nov 5 10:14:57 2014 -0500
+
+    Merge pull request #31 from dbarlett/patch-1
+    
+    WordPress Coding Standards for PHP_CodeSniffer
+
+commit b8f19aa3bfe9b767a8866fa5efc17815d1bfa3b5
+Author: Dylan Barlett <dylan.barlett@gmail.com>
+Date:   Wed Nov 5 10:12:51 2014 -0500
+
+    WordPress Coding Standards for PHP_CodeSniffer
+
+commit 5444febaca64a84595de47aae3756175995126e8
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Nov 4 17:56:02 2014 -0500
+
+    Tone down contribution section
+
+commit 736c0a0dc2518d8903a714e9b2ce0fe590a5a992
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Nov 4 17:33:23 2014 -0500
+
+    Refine collaboration sentence a bit more
+
+commit 14ef5eab89692fb6e656526db4b1a1f1c2974f9b
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Nov 4 17:32:53 2014 -0500
+
+    Refine collaboration sentence
+
+commit 9b4115f1aa0c1d37c68910109993123f079fc653
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Nov 4 17:31:59 2014 -0500
+
+    Guide instead of documents
+
+commit 39638d7f7210e37f66924cfb1e60f56703fbdd05
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Nov 4 17:30:46 2014 -0500
+
+    Refine readme
+
+commit 6f06e9b2b5daed088e6da8aec669628d424903ff
+Merge: a2a667b f9e921c
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Oct 29 21:42:27 2014 -0400
+
+    Merge pull request #28 from TheLastCicada/gh-pages
+    
+    Update caching section for clarity
+
+commit f9e921cd4a5c38253bddce2a045d37581fc85cb2
+Author: Zachary Brown <zachary.g.brown@gmail.com>
+Date:   Wed Oct 29 18:01:48 2014 -0700
+
+    Update caching section for clarity
+    
+    Added clarifying language to batcache section.
+
+commit a2a667b51376f734537ee6532ce656c6bac775a1
+Author: Eric Mann <eric@eamann.com>
+Date:   Wed Oct 15 10:33:18 2014 -0700
+
+    Update h3 tags so back-to-top links don't muck anything up.
+
+commit 739ac500a751c2f0bd1ddb7b0d8e543a23171871
+Merge: ed0e1b4 e1a1097
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Oct 7 09:32:07 2014 -0400
+
+    Merge pull request #24 from DrewAPicture/docs
+    
+    Add phpDoc blocks to example PHP functions.
+
+commit e1a10974155027e34a0e8859d8aac987a00b21c5
+Merge: e6fbfc0 ed0e1b4
+Author: DrewAPicture <drew@10up.com>
+Date:   Mon Oct 6 22:27:13 2014 -0600
+
+    Conflicts.
+
+commit ed0e1b43982e77593a8f650d5c1bac8fe785cebe
+Merge: 909bd51 8d4e8c7
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Oct 7 00:20:53 2014 -0400
+
+    Merge pull request #23 from rachelbaker/gh-pages
+    
+    Syntax and Standards fixes for PHP Code Examples
+
+commit 909bd5122a69e14a8c4281716608af924ace8b8d
+Merge: 501a825 bb68e59
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Oct 7 00:19:43 2014 -0400
+
+    Merge pull request #25 from DrewAPicture/code-tweaks
+    
+    Minor code corrections per standards
+
+commit bb68e5932d1355515ad27d67e4c6a47e88628e61
+Author: DrewAPicture <drew@10up.com>
+Date:   Mon Oct 6 19:45:30 2014 -0600
+
+    Spaces to tabs for Tenup_Utilities_API, missing semicolon on a return, 5 * MINUTE_IN_SECONDS instead of 300, global $wpdb for wpdb examples.
+
+commit e6fbfc068fc7f02196f0a2e899dd1575585e05bc
+Author: DrewAPicture <drew@10up.com>
+Date:   Mon Oct 6 19:41:56 2014 -0600
+
+    Add some inline-comments to standalone examples. One too many 'cache'.
+
+commit 737d57662d0cb099c3fcc4e2abfd9d3e6dbec85b
+Author: DrewAPicture <drew@10up.com>
+Date:   Mon Oct 6 19:33:24 2014 -0600
+
+    Add phpDoc blocks to example PHP functions.
+    
+    Also various inline-comment syntax adjustments.
+
+commit 8d4e8c7302ef6c056dc44b23453e8d2083d400da
+Author: Rachel Baker <rachel@rachelbaker.me>
+Date:   Mon Oct 6 19:39:15 2014 -0500
+
+    Add space after WP_Query arguments to match Code Standards.
+
+commit a55cfe004e99a9a193332a6f48895518e81bfac7
+Author: Rachel Baker <rachel@rachelbaker.me>
+Date:   Mon Oct 6 19:38:23 2014 -0500
+
+    Fix syntax error in Cache Remote Request example.  Closes #22
+
+commit 501a8253f963c407df45672ec4bd77fac10d3d09
+Author: Eric Mann <eric@eamann.com>
+Date:   Mon Oct 6 16:02:11 2014 -0700
+
+    Update structure docs to better highlight why plugins/themes are decoupled and conditions under which we spin off standalone libraries.
+
+commit 4c358c95d54bf164d4b5bf36286825300795f879
+Merge: e67fd23 14ac2d7
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Oct 6 15:03:17 2014 -0400
+
+    Merge pull request #21 from rachelbaker/gh-pages
+    
+    Remove unused boilerplate code from initial commit.
+
+commit 14ac2d768edf5a96d0529e4d51cbc45c1e6c45f7
+Author: Rachel Baker <rachel@rachelbaker.me>
+Date:   Mon Oct 6 13:34:29 2014 -0500
+
+    Remove unused boilerplate code from initial commit.
+
+commit e67fd2396b6bdc6e60f9902f9e6f6967436ed9f3
+Merge: 08645ec 79d858a
+Author: Eric Mann <eric@eamann.com>
+Date:   Mon Oct 6 09:55:17 2014 -0700
+
+    Merge branch 'gh-pages' of github.com:10up/Engineering-Best-Practices into gh-pages
+
+commit 08645ecb74cc89ca0f311a8ee72b3e86758e86af
+Author: Eric Mann <eric@eamann.com>
+Date:   Mon Oct 6 09:53:44 2014 -0700
+
+    Add last modified date to pages
+
+commit 79d858a160b2aeda0b8a572bdf01230840cd86be
+Merge: b18d370 0b2f403
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Oct 6 12:42:07 2014 -0400
+
+    Merge pull request #20 from rachelbaker/gh-pages
+    
+    Add Typekit scripts to display fonts from 10up.com
+
+commit 0b2f403ae34cc4a81c3ae0c710ba6ef6e12c1173
+Author: Rachel Baker <rachel@rachelbaker.me>
+Date:   Mon Oct 6 11:35:47 2014 -0500
+
+    Add Typekit scripts to display fonts from 10up.com
+
+commit 54aea21502687e1782c91301b7dc7ac8fcad3818
+Author: Eric Mann <eric@eamann.com>
+Date:   Mon Oct 6 09:22:16 2014 -0700
+
+    Add a back-to-top mechanism
+
+commit b18d37087aec6b052c26b67203b0ada0b2da6c8e
+Author: John Eckman <jeckman@users.noreply.github.com>
+Date:   Mon Oct 6 11:09:30 2014 -0500
+
+    Update PHP.md
+    
+    Link to transient API
+
+commit 8c254baab8c3a77e64f088869aef55e647ea01fc
+Author: John Eckman <jeckman@users.noreply.github.com>
+Date:   Mon Oct 6 11:05:07 2014 -0500
+
+    Update Introduction.md
+    
+    minor style and grammar cleanup
+
+commit 2bb6f700eb31a53631df13b2e36baca183fb235d
+Merge: 64ed318 a865dad
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Oct 6 10:55:10 2014 -0400
+
+    Merge branch 'gh-pages' of github.com:10up/Engineering-Best-Practices into gh-pages
+
+commit 64ed3183e5fe9065e4ccceb6b8f0e4dabbd36374
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Oct 6 10:54:40 2014 -0400
+
+    Fix paths
+
+commit a865dade934ef1c0bad4e99b8e287af171d73e5c
+Merge: d6e4f98 e9a5dfd
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Sat Oct 4 14:05:55 2014 -0700
+
+    Merge pull request #17 from tddewey/toc-styles
+    
+    Toc styles
+
+commit e9a5dfde9a3e1bf06ab5b2c26806d63af8eb7d4e
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Sat Oct 4 13:58:02 2014 -0700
+
+    Underlines (really, border-bottom) for TOC links
+
+commit 4cab50da89a99651f1ac5b9624cedfab3b8534ee
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Sat Oct 4 13:56:00 2014 -0700
+
+    Remove the old-grid and update the table of contents styles. Mostly just increasing font size.
+
+commit 9efaaaf5ddda2ef8fc33a63a72264160a0dbfea9
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Sat Oct 4 13:11:57 2014 -0700
+
+    Careers button should link to the careers page on 10up.
+    10up.com should not link to careers.
+
+commit 62ea9410533b1f4a8ab5bc5efcf9078a4ebf84aa
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Sat Oct 4 13:11:15 2014 -0700
+
+    Fix for missing 10up icon
+
+commit d6e4f9885b8d396145c6851d49c7cca95e1211d9
+Merge: 82f0d7d db4e9f2
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Sat Oct 4 12:59:18 2014 -0700
+
+    Merge pull request #16 from tddewey/dropdown-menus
+    
+    Dropdown menus
+
+commit db4e9f24bca96dfa3d81dc89b8b826d503255ab7
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Sat Oct 4 12:56:51 2014 -0700
+
+    Mobile navigation toggle
+
+commit 0dcdba8b70f13af0bdebfd5c82b38c34c646bc10
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Sat Oct 4 12:56:32 2014 -0700
+
+    Subnav dropdowns
+
+commit 82f0d7d42c7aa05aa18c5201379367d943d64211
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Oct 3 16:55:14 2014 -0400
+
+    Remove code guide stuff
+
+commit 18de23898bedd08ee3a46e926823dd3d962956e6
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Oct 3 16:54:27 2014 -0400
+
+    Cleanup readme
+
+commit 247c5c69015d55307013521e3b657a91a35113d5
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Oct 3 16:36:42 2014 -0400
+
+    Use div instead of section
+
+commit 335752ebcdedcaad5ec6126e4c4700cc34843114
+Merge: c98d104 0438544
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Oct 2 16:39:55 2014 -0700
+
+    Merge pull request #15 from rachelbaker/gh-pages
+    
+    Add favicons
+
+commit c98d10460d970305cc7ae3d4075d022a96eb4620
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Oct 2 16:37:39 2014 -0700
+
+    Update ToC
+
+commit 3619104036a64da44ecab476c98048f4f044428e
+Merge: 67d2ff1 359be40
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Oct 2 16:33:25 2014 -0700
+
+    Merge in structure docs
+
+commit 359be4032edd1d84723b8d81eb47c2fdb36f82d6
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Oct 2 16:33:02 2014 -0700
+
+    Add structure docs
+
+commit a9dedeb9992ef6d5da3825edc720e211c21e1117
+Merge: e227a51 67d2ff1
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Oct 2 15:30:31 2014 -0700
+
+    Latest dev
+
+commit 67d2ff18ba4db78b219dc70aa03d4dd780118e5d
+Merge: 4e55adb d00b46c
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Oct 2 15:10:51 2014 -0700
+
+    Merge new dropdown navigation
+
+commit d00b46c42528aa83ece362b604a07005fcbff37b
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Oct 2 15:10:29 2014 -0700
+
+    Move ToC to just the homepage
+
+commit 580a3b5240f78bdf437f3bde169b310ec4151516
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Oct 2 15:09:25 2014 -0700
+
+    Create subnav
+
+commit 043854497def35ba30578f8c7350d58e8f621606
+Author: Rachel Baker <rachel@rachelbaker.me>
+Date:   Thu Oct 2 13:53:12 2014 -0500
+
+    Add link reference to apple touch icon in default template.
+
+commit 0ba5bc6b61a1dae8a9ca5a9e4eb073539db002f7
+Author: Rachel Baker <rachel@rachelbaker.me>
+Date:   Thu Oct 2 13:52:13 2014 -0500
+
+    Update path for shortcut icon in default template.
+
+commit 59ee442a8acd61cd4cd3b87b1c8ecf1540c431c3
+Author: Rachel Baker <rachel@rachelbaker.me>
+Date:   Thu Oct 2 13:48:03 2014 -0500
+
+    Add favicon files to img directory.
+
+commit e227a513b59691762524f6920673bbd5377ff4cb
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Oct 2 09:55:35 2014 -0700
+
+    Add backbone for structure
+
+commit 4e55adb22468ce15e99fcc20e9f23e6dfe7dcd97
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Oct 2 09:48:14 2014 -0700
+
+    Clean up titles and nav
+
+commit d0af318480c03f435557264a7a5beb6e3b20ce3d
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Oct 2 09:45:30 2014 -0700
+
+    Autonavigation
+
+commit 17b459bb2d88527d253f3c78622a21467c3bef74
+Merge: fff5706 cea4aff
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Oct 2 09:33:33 2014 -0400
+
+    Merge pull request #14 from tddewey/10up-styles
+    
+    10up Styles
+
+commit cea4aff1a48644d8c349439a3668ea93b5b4a6b1
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Thu Oct 2 02:41:32 2014 -0700
+
+    Add a note to old-grid on why it's labeled "old"
+    
+    Revert changes to Introduction and some changes to config.yml
+
+commit 03b47508b994d7d9de8194af125a85234f89e211
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Thu Oct 2 02:35:45 2014 -0700
+
+    Delete old-styles, no longer needed
+
+commit 1cde2a9dea9d03e4ee8f2d9c219254ebf352897b
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Thu Oct 2 02:35:04 2014 -0700
+
+    No longer "heavily" inspired.
+
+commit 71b382d1ab57cb2abed0709dff61f385ea7daac6
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Thu Oct 2 02:34:32 2014 -0700
+
+    Reformat each page to use the new markup
+
+commit 08662da553a2d3dc05729088e270b9cae258e30f
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Thu Oct 2 02:33:13 2014 -0700
+
+    Add footer icon
+
+commit 25c1fce8f1d364cbd0075ce609377c3d5ef7b5b3
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Thu Oct 2 02:33:00 2014 -0700
+
+    Fixing up footer.
+
+commit c3a946637f0dade15311a35c160b8eb136963743
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Thu Oct 2 02:20:47 2014 -0700
+
+    Added buttons and copyright to footer.
+
+commit af7dd406a095794e3afc345f0cfd74887a8a2a1e
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Thu Oct 2 01:49:32 2014 -0700
+
+    Header tweaks
+
+commit e8d4477227b6dcab6ea6722c587eaf41254a699f
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Thu Oct 2 00:58:17 2014 -0700
+
+    Style code blocks
+
+commit 4d0dd3d8002420949c3f98b3f66553c498363f8c
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Thu Oct 2 00:50:42 2014 -0700
+
+    styles for the main section. Add some header styles
+
+commit 33a5884e1d6540e09db51d39a3878603787e5e8a
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Thu Oct 2 00:34:56 2014 -0700
+
+    Remove existing icon font
+    Basic restyling of TOC
+    Introduce header background system for a bit of page-level customization
+
+commit 36d988e58c5195f6ce1ca66251ad515c27573ccf
+Author: Taylor Dewey <td@tddewey.com>
+Date:   Wed Oct 1 23:35:23 2014 -0700
+
+    Introducing 10up base styles, reconfigure header. Begin deprecation of existing styles.
+
+commit fff570645b51261f6b8abeb1e1c38fa71f007ceb
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Oct 1 11:48:49 2014 -0400
+
+    Add learning philosophy
+
+commit 4bc01ed407ceb27ca0223abe4589afaca512f77f
+Author: Eric Mann <eric@eamann.com>
+Date:   Tue Sep 30 11:50:08 2014 -0700
+
+    Stripslashes
+
+commit a08661a5e10725498d6fa956407e7758e14c2d79
+Author: Eric Mann <eric@eamann.com>
+Date:   Tue Sep 30 11:47:19 2014 -0700
+
+    Fix relative links
+
+commit 3a9c8e101b562bb1f72acedfa28fec09a6f5fb83
+Author: Eric Mann <eric@eamann.com>
+Date:   Tue Sep 30 10:59:24 2014 -0700
+
+    Fix some includes because Chrome doesn't like SSL
+
+commit 2fdbc325966751e9fc77e05300a2f36806257e1c
+Author: Eric Mann <eric@eamann.com>
+Date:   Tue Sep 30 10:57:18 2014 -0700
+
+    Fix relative enqueues
+
+commit fdcd0785d7e25ff651eadb8296279366fd956450
+Merge: b6bc3b2 fc31b9e
+Author: Eric Mann <eric@eamann.com>
+Date:   Tue Sep 30 10:52:27 2014 -0700
+
+    Break page out into sections
+
+commit fc31b9e73e2f1308939444e2e11c69c4c455c321
+Author: Eric Mann <eric@eamann.com>
+Date:   Tue Sep 30 10:44:12 2014 -0700
+
+    Break out other pages
+
+commit d8a290243519abd4f4b87b016e7ab1672aafc095
+Author: Eric Mann <eric@eamann.com>
+Date:   Tue Sep 30 10:36:34 2014 -0700
+
+    Clean up JS page
+
+commit 33055671354c84fb078cba8134ffaade6998a877
+Author: Eric Mann <eric@eamann.com>
+Date:   Tue Sep 30 10:23:10 2014 -0700
+
+    Begin breaking things out
+
+commit b6bc3b256d8fa2a7d882f067c7eda2abaf65a6bb
+Merge: 35d24d0 a26415f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 29 15:08:23 2014 -0400
+
+    Merge pull request #13 from DrewAPicture/docs-section
+    
+    Rename the 'Code Style' sections to 'Code Style & Documentation' for PHP and JS
+
+commit a26415fb58aa5671f82e64d70cec354857e81fd9
+Author: DrewAPicture <drew@10up.com>
+Date:   Mon Sep 29 12:36:26 2014 -0600
+
+    Rename the 'Code Style' sections to 'Code Style & Documentation' for PHP and JavaScript.
+    
+    In the absence of an established docs standard for JavaScript in core, we're following JSDoc3.
+
+commit 35d24d0d56730fa65ef555b874eba1a1c3fa78c2
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 29 14:23:11 2014 -0400
+
+    Cleanup readme language
+
+commit 9957d6e7529b945cdc1ad76c5f82a78b28ac99bd
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 29 14:22:36 2014 -0400
+
+    Remove don't contribute message
+
+commit df7855efa33c2e0ccdcd9ce352626d6fc2cf56e3
+Merge: c3e0182 e57b39b
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 29 14:06:27 2014 -0400
+
+    Merge pull request #9 from daveross/gh-pages
+    
+    Note about JavaScript performance affecting mobile
+
+commit e57b39b672e2177dffdf8650db284a3b713a21fb
+Author: Dave Ross <dave@davidmichaelross.com>
+Date:   Mon Sep 29 13:57:07 2014 -0400
+
+    Note about JavaScript performance affecting mobile
+    
+    A large and growing number of people primarily access the web on mobile devices. It's important to keep in mind the ways our code impacts those devices.
+
+commit c3e01821306e861731c73794053bf63cf372b5e2
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 29 13:38:19 2014 -0400
+
+    Language tweaks
+
+commit 032dd52e2de17540e9e0b0c929b58c83c217d4cb
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 29 13:14:15 2014 -0400
+
+    Language cleanup
+
+commit ed1a3d48710dd0ed8672abbbf7196f3271a78b2f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 29 13:04:43 2014 -0400
+
+    Small language tweaks and clarifications
+
+commit b86cdb49092b19cf9a061110868d32bb72515649
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 29 12:12:33 2014 -0400
+
+    console.log to window.console.log
+
+commit df600ec8b910d2493e0319269b2944d3e1b16f14
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 29 12:00:43 2014 -0400
+
+    Tools language
+
+commit a643af9ca795dce9d3684fb110aff4e58c6caede
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 29 11:56:54 2014 -0400
+
+    Improve intro language
+
+commit 7a9617f3688111711a4c3bd7e3b720132ad42400
+Merge: 3cb7dad 7aaeda7
+Author: Drew Jaynes <info@drewapicture.com>
+Date:   Sun Sep 28 17:39:18 2014 -0600
+
+    Merge pull request #7 from 10up/revert-6-test-subpages
+    
+    Revert "Test: Attempt to create and link-to a subpage."
+
+commit 7aaeda70d593e483867ca2da5dd2fdc7a1fc1b19
+Author: Drew Jaynes <info@drewapicture.com>
+Date:   Sun Sep 28 17:39:05 2014 -0600
+
+    Revert "Test: Attempt to create and link-to a subpage."
+
+commit 3cb7dade9c45e12a74079af3f351cbc427498b4a
+Merge: 255e66c 61e13bd
+Author: Drew Jaynes <info@drewapicture.com>
+Date:   Sun Sep 28 17:34:42 2014 -0600
+
+    Merge pull request #6 from DrewAPicture/test-subpages
+    
+    Test: Attempt to create and link-to a subpage.
+
+commit 61e13bdd7a42a48a74796985d0b0c1949bd913e7
+Author: DrewAPicture <drew@10up.com>
+Date:   Sun Sep 28 17:32:29 2014 -0600
+
+    Attempt to create and link-to a subpage.
+
+commit 255e66c15ba09b0c6d9fd29d9b7fa0ef19a4dc80
+Merge: 0c35f4d f6defe9
+Author: Drew Jaynes <info@drewapicture.com>
+Date:   Sun Sep 28 14:15:48 2014 -0600
+
+    Merge pull request #5 from DrewAPicture/php-text
+    
+     Fix a few more typos, and attempt to the fix janky formatting on the revised Nonce section.
+
+commit f6defe94aeb0a072591884dab8d41d328dcb6940
+Merge: 64b5a1b 0c35f4d
+Author: DrewAPicture <drew@10up.com>
+Date:   Sun Sep 28 14:12:47 2014 -0600
+
+    Merge branch 'gh-pages' into php-text
+
+commit 64b5a1bcc08c454f98c2a841a10e0a24b8ff6dd4
+Author: DrewAPicture <drew@10up.com>
+Date:   Sun Sep 28 14:12:07 2014 -0600
+
+    Fix a few more typos, and attempt to the fix janky formatting on the revised Nonce section.
+
+commit 0c35f4dc0a370460161571c7bb2ceddc60c2abc8
+Merge: c733b65 470896a
+Author: Drew Jaynes <info@drewapicture.com>
+Date:   Sun Sep 28 13:53:30 2014 -0600
+
+    Merge pull request #4 from DrewAPicture/php-text
+    
+     Grammatical and sentence structure tweaks for the PHP section.
+
+commit 470896ae540946d0954d701ff831594eb7b735a2
+Author: DrewAPicture <drew@10up.com>
+Date:   Sun Sep 28 13:51:21 2014 -0600
+
+    Make a few more tweaks and typo fixes.
+
+commit 001beed1b87ba8ba3c81a938367476b2f311144d
+Author: DrewAPicture <drew@10up.com>
+Date:   Sun Sep 28 13:44:01 2014 -0600
+
+    Grammatical and sentence structure tweaks for the PHP section.
+    
+    Notable changes include wording and restructuring done in the Nonces section. I felt it was necessary to make clear that while WordPress implements nonces in the spirit of the term, they aren't strictly "numbers used once". I also did a whole bunch of function linking throughout.
+
+commit c733b6510efcd56a28a804bc8ab2f470261b4c22
+Merge: eb7233f 33e010e
+Author: Drew Jaynes <info@drewapicture.com>
+Date:   Sun Sep 28 12:19:22 2014 -0600
+
+    Merge pull request #3 from DrewAPicture/introduction-text
+    
+    Best practices are plural. Missed this change to the Introduction section in the last PR/merge.
+
+commit 33e010efb784f03fbea3c284380c84e59681bc51
+Author: DrewAPicture <drew@10up.com>
+Date:   Sun Sep 28 12:17:58 2014 -0600
+
+    Best practices are plural. Missed this change to the Introduction section in the last PR/merge.
+
+commit eb7233fd92e315a2034cfb40faf363185eb4fac9
+Merge: a2ce231 3befae5
+Author: Drew Jaynes <info@drewapicture.com>
+Date:   Sun Sep 28 12:16:16 2014 -0600
+
+    Merge pull request #2 from DrewAPicture/introduction-text
+    
+    Grammatical and sentence structure tweaks for the Introduction section.
+
+commit 3befae5682a91480a1eba99a39c938eed912e333
+Author: DrewAPicture <drew@10up.com>
+Date:   Sun Sep 28 12:15:38 2014 -0600
+
+    Grammatical and sentence structure tweaks for the Introduction section.
+
+commit a2ce231d7ca537d4287425a2bfda6b8d5c7c0237
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Sep 26 13:00:33 2014 -0400
+
+    Add global namespacing note; add a DRY link
+
+commit 5e9fb6c54ec225ef5a9aa68cfac34a479c0f82c5
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Sep 26 12:50:17 2014 -0400
+
+    Readd layout to CSS to fix code styling
+
+commit 5e00e897d7034ad5684eff5e86a38f42ee607503
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Sep 25 11:12:57 2014 -0700
+
+    Remove some unnecessary markup
+
+commit 5c3fcc4412e5b2d7f7ed5796b811abae28c8dd83
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Sep 25 11:11:07 2014 -0700
+
+    Footer repo links
+
+commit 33acfab4d210f54e8f2206dd946301a3a4124b18
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Sep 25 11:08:50 2014 -0700
+
+    Minor typo fix and docblock addition
+
+commit 6838a631fb0af5a1dd25dce77dac7d8426cc2faf
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Sep 25 11:02:17 2014 -0700
+
+    PHP design standards
+
+commit 0a23f2a35bdad11d536c82574ee4915f2faca805
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Sep 25 11:02:02 2014 -0700
+
+    Add some configuration cleanup to make headings linkable
+
+commit fa2ad75acecf2f0ab5df9d3fcefcae8a502a73c1
+Author: Eric Mann <eric@eamann.com>
+Date:   Thu Sep 25 09:32:23 2014 -0700
+
+    Minor cleanup to prevent errors in Jekyll
+
+commit 51871890b2bc3c34aeae51e45ed8538059e875af
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 24 14:35:13 2014 -0400
+
+    Validation section refined; general cleanup
+
+commit c045c6e3e24a1d3faed092fb1dad1305bb2bb431
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 24 12:55:41 2014 -0400
+
+    Add jsperf example for jquery vs nonjquery hide
+
+commit f30ee54d975e6371987a584bfa81558f889b0ddb
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 24 12:48:41 2014 -0400
+
+    Refine version control structure
+
+commit 305e988399cce2fc38eded0d505c226fee13afba
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 24 12:39:34 2014 -0400
+
+    Continue VC structure
+
+commit b40e9148897c6dd8aef22bb385cc1396d6e9e6ef
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 24 12:33:42 2014 -0400
+
+    Restructure version control; add version control structure
+
+commit a68f7677a29f8ae14c91f646740b3af53d023101
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 24 11:46:08 2014 -0400
+
+    Cleanup workflow titles
+
+commit fe97fd3e476c2ce4557474d0f7573d1c8a656f2c
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 22 15:49:48 2014 -0400
+
+    Typo
+
+commit c8108cd0166532e5eaa2c959125a4141c7db1c28
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 22 13:22:54 2014 -0400
+
+    Late escaping clause
+
+commit 0ef37dd5b1e4165451d3389507453d29ea1106a6
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 22 13:19:38 2014 -0400
+
+    Nonces section
+
+commit f4599cb9593ace6f07b7272def16306b9877bc39
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 22 12:50:51 2014 -0400
+
+    Cache remote requests
+
+commit a4bcf7274c2941ae051c507f70fab91ac6915889
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 22 12:20:17 2014 -0400
+
+    Add a comma
+
+commit eecc80c5e7d9d79242ff80f2c56b662b4d3b1d0a
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 22 12:00:17 2014 -0400
+
+    Dealing with raw SQL
+
+commit 5fbe6be51123ce55e6c49cf37044e01a3bb5ce99
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 22 11:24:19 2014 -0400
+
+    JS language/link cleanup
+
+commit 27b5714a89dbf5953abd1bf7936f8a21f915e467
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 22 11:14:10 2014 -0400
+
+    Add links to APIs; language cleanup
+
+commit da9e4355f5d961d49c588be5c1a83054a0b768f4
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 22 10:39:37 2014 -0400
+
+    Remove <script> tags from JS examples
+
+commit 5e82a0dd5f897d75347b300ec198b45c1ca442a8
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 22 10:37:43 2014 -0400
+
+    Ajax endpoint example
+
+commit e41a9599d4fd0e292e818ba6facf84a9e1902e2a
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Mon Sep 22 10:14:08 2014 -0400
+
+    Fix parsing issue
+
+commit 91e8da5e4080fd3c98befeaba2d98a5b45d37727
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Sep 19 16:02:21 2014 -0400
+
+    Standardize titles
+
+commit 7d3f0e13c4a940e53392c5f25cf5aac8f0191456
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Sep 19 15:56:06 2014 -0400
+
+    Structure table of contents; add blank markdown and css files
+
+commit f396f4cd00f91a8a3de5792ac344eb7a602bd91d
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Sep 19 12:34:26 2014 -0400
+
+    Restructure JS adding design patterns section
+
+commit f4e2924dd8a5d86ae750dbde1deb1b5de72c6600
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Fri Sep 19 11:51:34 2014 -0400
+
+    Dont pollute the global namespace JS
+
+commit bfa089710fc8f64abc883ae8823a192c3b08e2b3
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Sep 18 10:09:10 2014 -0400
+
+    Deprecated language features JS
+
+commit 574eaede52ba4cc4be36c69cd29550f559f7b910
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Thu Sep 18 09:46:28 2014 -0400
+
+    Padding for code
+
+commit b8a84857bbfac6f952987691fbfc8d78b6781ab1
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 16:46:08 2014 -0400
+
+    Under development warning message
+
+commit 3e36a91abbafa356c49849a62bf3b84959178d26
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 16:00:57 2014 -0400
+
+    Refine goals and start contributing
+
+commit 5abfd6f7ce5a82ba67f9e3875c3560e9917ce6e1
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 15:48:48 2014 -0400
+
+    Refine tools
+
+commit 1129d7b868cc617dbc4b6008c1d32cf04b2df8bb
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 15:29:46 2014 -0400
+
+    VC links
+
+commit eac9e5c474f5020f1f9306d7d7b8f775956360c8
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 15:23:45 2014 -0400
+
+    Bottom margin for code
+
+commit 2776f6e929536187850a7961c079f0a9a910ab21
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 14:55:05 2014 -0400
+
+    Use js script tags
+
+commit 865a4549683530e517447f1ea316036827f39b64
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 14:45:31 2014 -0400
+
+    Use redcarpet for markdown; use PHP opening and closing tags; correct highlight selector
+
+commit 21e770ae08758a9bcc88b4af610332025b7cc9ee
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 14:17:47 2014 -0400
+
+    Update config
+
+commit 0537bc8b7b4f00e9831f7635d8b0c837b7a40c75
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 14:16:00 2014 -0400
+
+    Fix readme. Closes #1
+
+commit 3b8605942bb63e600d7ef5e90c11fa10148f6a2f
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 14:15:13 2014 -0400
+
+    Restructure repo; start index buildout
+
+commit 46c605cf096856d5e4b598db9a03679d8d3f378c
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 13:33:19 2014 -0400
+
+    AJAX endpoints section
+
+commit 8dae5f14fc2d3c0edac75c4e8cc023f392caba57
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 13:14:46 2014 -0400
+
+    Refine escaping language
+
+commit dd3a26ebed6e7bea35bb0296c7b3dc56a9e2263d
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 13:11:56 2014 -0400
+
+    Escape translated output
+
+commit 6d9878f1484d1f592ecaa76f0bdb0e32c6c158fd
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 13:06:39 2014 -0400
+
+    Fix array notation
+
+commit fc28f41a6572915de5d98595c74cb462da909544
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 13:05:43 2014 -0400
+
+    Fix parsing issue
+
+commit eeaaaef695d0e373684fc53a00eca114766245b1
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 13:04:49 2014 -0400
+
+    Query examples
+
+commit a9d68e778328639ae27523f59b71ad4224b3ac18
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Wed Sep 17 13:00:40 2014 -0400
+
+    Refine PHP doc
+
+commit a3e6e78c1f2371e45c1e4a2a13ac01b28dc2dd52
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 16:29:35 2014 -0400
+
+    Refine keep it simple
+
+commit e375967de983baaa6bf06ba07c36545ccfa67b9c
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 16:28:21 2014 -0400
+
+    Start of keep it simple philosophy
+
+commit c0b564e42fe68d224062437f47fed70ffa6780d6
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 16:12:09 2014 -0400
+
+    Language correction
+
+commit 5e5477b4ff454897c96e193ea4fa7a738f8c6811
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 16:10:53 2014 -0400
+
+    Fix markdown
+
+commit 4a66e86f6eba062c3ec3d772e7b56125fb1090c7
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 16:10:25 2014 -0400
+
+    Avoid the jQuery seletion engine
+
+commit acb4627d645eefc1767b180b68f25901ba63f922
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 15:49:11 2014 -0400
+
+    Standards to best practices
+
+commit 0dfceb36b22d0dcede9fc20ab32c773845a10789
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 15:44:57 2014 -0400
+
+    Js perf for dom selection caching
+
+commit 1e769fd0a80c747a098dce5c95e5a88f8ff40960
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 15:24:06 2014 -0400
+
+    jperf for event delegation
+
+commit 688316abf2669df9f47c2a41d8d5f955be5dfcda
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 15:04:40 2014 -0400
+
+    Event delegation bubbling
+
+commit 69930c06b7021b6923a694c362309f6a54c30f36
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 15:04:35 2014 -0400
+
+    Quote formatting
+
+commit c1a507cbec4c9740a7ac9cdc687b5d60a685693b
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 14:49:02 2014 -0400
+
+    Introduction rough draft
+
+commit cfd7d2f2d7fce43f1a1e6541d2fbc43e6bbd7320
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 14:31:13 2014 -0400
+
+    Version control rough draft
+
+commit 9d036a65bd08cc641f236ddb1550b4e8ac90f370
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 14:12:44 2014 -0400
+
+    Tools rough draft
+
+commit b19e39c2f459ea65e77c4ccf98a004dd020730b6
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 14:07:11 2014 -0400
+
+    Use correct single quotes in JS
+
+commit 8279871fde8aeaef33e1e1441f3bdfd49b974d4c
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 14:06:12 2014 -0400
+
+    JS rough draft
+
+commit 3dfabf4e88c13abfa46dc38277763a9442aa0f41
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 14:06:01 2014 -0400
+
+    PHP formatting
+
+commit 4948ddc94f509cd9e7e946c5512468f11ea1dab7
+Author: Taylor Lovett <tlovett88@gmail.com>
+Date:   Tue Sep 16 13:57:18 2014 -0400
+
+    Rought PHP draft
+
+commit af5b2598c6a92e9089404cf814a892373a73a1b2
+Author: Eric Mann <eric@eamann.com>
+Date:   Mon Sep 15 15:54:42 2014 -0700
+
+    Initial fork commit
+git revert 3a0eeeb226cab6ee614a6eef2636a1d74d8e71a8 
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;32H(B[0;7m[ Read 16 lines ](B[m[H(B[0;7m     /home/nikhil/git/nikhil-mhaske-assignemnt/.git/COMMIT_EDITMSG              [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2dRevert "First change in readme file"[4dThis reverts commit 3a0eeeb226cab6ee614a6eef2636a1d74d8e71a8.[6d[36m# Please enter the commit message for your changes. Lines starting[7d# with '#' will be ignored, and an empty message aborts the commit.[8d#[9d# On branch wisdm-nikhil[10d# Your branch is up to date with 'origin/wisdm-nikhil'.[11d#[12d# Changes to be committed:[13d#[38;5;208m       [36mdeleted:    readme.md[14d#[15d# Changes not staged for commit:[16d#[38;5;208m       [36mmodified:   git-assignment.txt[17d#[2d[39m(B[m[?12l[?25h[?25l[1;68H(B[0;7m*[79G(B[m[?12l[?25h[2dqRevert "First change in readme file"q[?25l7[2;21r8M[1;24r[2;1Hq[3d[1P[?12l[?25h[?25l7[3;21r8M[1;24r[4;1H[?12l[?25h[?25l[?12l[?25heRevert "First change in readme file"e[?25l[?12l[?25hnRevert "First change in readme file"en[?25l[?12l[?25hdRevert "First change in readme file"end[?25l[3;21r[3;1HM[1;24r[4;1Hend[5d[3P[?12l[?25h[?25l[?12l[?25hwRevert "First change in readme file"w[?25l[?12l[?25hqRevert "First change in readme file"wq[?25l7[5;21r8M[1;24r[5;1Hwq[6d[2P[?12l[?25h[?25l[22;12H(B[0;7m[ line  5/21 (23%), col  1/37 (  2%), char  10/452 ( 2%) ](B[m[?12l[?25h[6d[?25l[?12l[?25h[1P[?25l[22;40H(B[0;7m6[22;61H1[22;70H(B[m[?12l[?25h[6d[?25l[?12l[?25hcevert "First change in readme file"c[?25l[?12l[?25hlevert "First change in readme file"cl[?25l[?12l[?25heevert "First change in readme file"cle[?25l[?12l[?25haevert "First change in readme file"[5G[24;1H[?1049l[23;0;0t[?1l>[?2004l
