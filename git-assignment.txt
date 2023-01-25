@@ -1,0 +1,15 @@
+git remote add origin git@github.com:nikhil-mhaske/nikhil-mhaske-assignment.git
+git push -u origin wisdm-nikhil
+Branch 'wisdm-nikhil' set up to track remote branch 'wisdm-nikhil' from 'origin'.
+gedit readme.md
+[wisdm-nikhil 3a0eeeb] First change in readme file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 readme.md
+git add readme.md
+git switch -c test250123
+git checkout main
+Your branch is ahead of 'origin/wisdm-nikhil' by 1 commit.
+  (use "git push" to publish your local commits)
+git merge test250123
+Already up to date.
+git push -u origin wisdm-nikhil
